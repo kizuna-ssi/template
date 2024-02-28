@@ -1,9 +1,16 @@
+<html lang="ja">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="https://kizuna-ssi.github.io/template/kizuna-ssi.css">
+ <title>きずなの死亡保険</title>
+</head>
 <body>
 
-<h1>きずなの死亡保険</h1>
-
- <h2>■ 保険料定額コース</h2>
-
+ <div class="main">
+  <h1>きずなの死亡保険</h1>
+  <h2>■ 保険料定額コース</h2>
 
  <form class="form">
 
@@ -209,3 +216,6 @@ userBirthdayDay.addEventListener('change', calculateAge);
 calculateAge();
 
 </script>
+<script src="https://kizuna-ssi.github.io/template/premium.js"></script>
+
+</html>
