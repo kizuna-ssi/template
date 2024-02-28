@@ -1,10 +1,10 @@
-  let age;
+let age;
 
-  const userBirthdayYear = document.querySelector('.birthday-year');
-  const userBirthdayMonth = document.querySelector('.birthday-month');
-  const userBirthdayDay = document.querySelector('.birthday-day');
-  const ageDisplay1 = document.getElementById('ageDisplay1');
-  const ageDisplay2 = document.getElementById('ageDisplay2');
+const userBirthdayYear = document.querySelector('.birthday-year');
+const userBirthdayMonth = document.querySelector('.birthday-month');
+const userBirthdayDay = document.querySelector('.birthday-day');
+const ageDisplay1 = document.getElementById('ageDisplay1');
+const ageDisplay2 = document.getElementById('ageDisplay2');
 
 function createOptionForElements(elem, val) {
   let option = document.createElement('option');
@@ -26,10 +26,7 @@ function calculateAge() {
     targetDate = new Date(today.getFullYear(), today.getMonth() + 2, 1);
   }
 
-  const ageDiff = targetDate.getTime() - birthDate.getTime();
-  let ageDate = new Date(ageDiff); // miliseconds from epoch
-  let age = Math.abs(ageDate.getUTCFullYear() - 1970);
-
+  age = targetDate.getFullYear() - birthDate.getFullYear();
   const monthDiff = targetDate.getMonth() - birthDate.getMonth();
 
   if (monthDiff < 0 || (monthDiff === 0 && targetDate.getDate() <= birthDate.getDate())) {
@@ -46,28 +43,27 @@ function calculateAge() {
   return age;
 }
 
-
-for(let i = 1924; i <= 1980; i++) {
+for (let i = 1924; i <= 1980; i++) {
   createOptionForElements(userBirthdayYear, i);
 }
 
-for(let i = 1; i <= 12; i++) {
+for (let i = 1; i <= 12; i++) {
   createOptionForElements(userBirthdayMonth, i);
 }
 
-for(let i = 1; i <= 31; i++) {
-  createOptionForElements(userBirthdayDay, i);
+function updateDayOptions() {
+  userBirthdayDay.innerHTML = '';
+  const lastDayOfTheMonth = new Date(userBirthdayYear.value, userBirthdayMonth.value, 0).getDate();
+  for (let i = 1; i <= lastDayOfTheMonth; i++) {
+    createOptionForElements(userBirthdayDay, i);
+  }
 }
 
 function changeTheDay() {
   if (userBirthdayYear.value && userBirthdayMonth.value) {
-    userBirthdayDay.innerHTML = '';
-    let lastDayOfTheMonth = new Date(userBirthdayYear.value, userBirthdayMonth.value, 0).getDate();
-    for(let i = 1; i <= lastDayOfTheMonth; i++) {
-      createOptionForElements(userBirthdayDay, i);
-    }
+    updateDayOptions();
+    calculateAge();
   }
-  calculateAge();
 }
 
 userBirthdayYear.addEventListener('change', changeTheDay);
@@ -75,4 +71,5 @@ userBirthdayMonth.addEventListener('change', changeTheDay);
 userBirthdayDay.addEventListener('change', calculateAge);
 
 // Initialize age calculation on page load
+updateDayOptions();
 calculateAge();
