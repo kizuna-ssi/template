@@ -47,9 +47,6 @@ function calculateAge() {
 }
 
 
-userBirthdayYear.innerHTML = '<option value="-">-</option>';
-userBirthdayMonth.innerHTML = '<option value="-">-</option>';
-userBirthdayDay.innerHTML = '<option value="-">-</option>';
 
 
 for(let i = 1924; i <= 1980; i++) {
