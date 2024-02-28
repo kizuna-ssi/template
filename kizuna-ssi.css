@@ -3,15 +3,14 @@
   .main {
     padding: 10px 20px;
     margin-left: auto;
-    margin-right: auto;
-    text-align:  center; 
+    margin-right: auto; 
+    width: 600px;
   }
 
   .form {
     padding: 10px 20px;
     margin-left: auto;
-    margin-right: auto;
-    text-align:  center; 
+    margin-right: auto; 
   }
 
   .ProductTable {
