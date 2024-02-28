@@ -607,7 +607,7 @@
     } else if (a == 75 && b == 2 && c == 4) {
       document.getElementById("amount").value = "2,427,200";
     } else if (a == 76 && b == 2 && c == 4) {
-      document.getElementById("amount").value = "2,16,4500";
+      document.getElementById("amount").value = "2,164,500";
     } else if (a == 77 && b == 2 && c == 4) {
       document.getElementById("amount").value = "1,908,400";
     } else if (a == 78 && b == 2 && c == 4) {
