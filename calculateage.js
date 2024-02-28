@@ -15,7 +15,6 @@ function createOptionForElements(elem, val) {
 
 
 function calculateAge() {
-
   const today = new Date();
   const birthDate = new Date(userBirthdayYear.value, userBirthdayMonth.value - 1, userBirthdayDay.value);
 
@@ -25,10 +24,13 @@ function calculateAge() {
     targetDate = new Date(today.getFullYear(), today.getMonth() + 1, 1);
   } else {
     // If today is 16th or later, target the month after next
-    targetDate = new Date(today.getFullYear() + (today.getMonth() === 11 ? 1 : 0), (today.getMonth() + 2) % 12, 1);
+    targetDate = new Date(today.getFullYear(), today.getMonth() + 2, 1);
   }
 
-  age = targetDate.getFullYear() - birthDate.getFullYear();
+  const ageDiff = targetDate.getTime() - birthDate.getTime();
+  let ageDate = new Date(ageDiff); // miliseconds from epoch
+  let age = Math.abs(ageDate.getUTCFullYear() - 1970);
+
   const monthDiff = targetDate.getMonth() - birthDate.getMonth();
 
   if (monthDiff < 0 || (monthDiff === 0 && targetDate.getDate() <= birthDate.getDate())) {
@@ -43,7 +45,6 @@ function calculateAge() {
   ageDisplay2.textContent = `責任開始日：${targetDate.toLocaleDateString()}`;
 
   return age;
-
 }
 
 
