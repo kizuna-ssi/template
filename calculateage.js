@@ -13,7 +13,6 @@ function createOptionForElements(elem, val) {
   elem.appendChild(option);
 }
 
-
 function calculateAge() {
   const today = new Date();
   const birthDate = new Date(userBirthdayYear.value, userBirthdayMonth.value - 1, userBirthdayDay.value);
@@ -48,8 +47,6 @@ function calculateAge() {
 }
 
 
-
-
 for(let i = 1924; i <= 1980; i++) {
   createOptionForElements(userBirthdayYear, i);
 }
@@ -79,4 +76,3 @@ userBirthdayDay.addEventListener('change', calculateAge);
 
 // Initialize age calculation on page load
 calculateAge();
-
