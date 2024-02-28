@@ -1,0 +1,208 @@
+<html lang="ja">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="https://kizuna-ssi.github.io/template/kizuna-ssi.css">
+ <title>きずなの死亡保険</title>
+</head>
+<body>
+
+ <div class="main">
+  <h1>きずなの死亡保険</h1>
+  <h2>■ 保険金額固定コース</h2>
+  
+ <form class="form">
+  <table class="ProductTable">
+    <tr><th colspan="2">生年月日</th><tr>
+    <tr><td colspan="2">
+      <div class="form-select-wrap">
+        <select class="birthday-year" onchange="calculate()" style="width: 180px;"></select>年
+      </div></td></tr>
+    <tr><td colspan="2">
+      <div class="form-select-wrap">
+        <select class="birthday-month" onchange="calculate()"></select>月
+        <select class="birthday-day" onchange="calculate()"></select>日
+      </div>
+    </td></tr>
+    <tr><td><div id="ageDisplay1" style="text-align: right;"></div></td>
+     <td>
+      <div class="tooltip1">
+       <label class="helpbutton">
+       <p>
+       <input type="checkbox" class="checkhelp">
+        <div class="description1">契約年齢とは責任開始日時点の年齢をいいます。契約年齢が50歳から80歳までの方がお申込みいただけます。</div>
+       </p>
+       </label>
+      </div>
+     </td></tr>
+    <tr><td><div id="ageDisplay2" style="text-align: right;"></div></td>
+     <td>
+      <div class="tooltip1">
+       <label class="helpbutton">
+       <p>
+       <input type="checkbox" class="checkhelp">
+        <div class="description1">責任開始日は、申込受付完了が月初～15日の場合は翌月の1日、16日～月末の場合は翌々月の1日となります。</div>
+       </p>
+       </label>
+      </div>
+     </td></tr>
+  </table><br>
+
+  <table class="ProductTable">
+    <tr><th>性別</th></tr>
+    <tr><td>
+     <input type="radio" id="male" name="gender" onchange="calculate()" value="1" checked>
+     <label for="male">男性</label>
+    </td>
+    <td>
+     <input type="radio" id="female" name="gender" onchange="calculate()" value="2">
+     <label for="female">女性</label>
+    </td></tr>
+  </table><br>
+
+  <table class="ProductTable">
+    <tr><th>保険金額</th></tr>
+    <tr><td>
+     <input type="radio" id="50" name="amount" onchange="calculate()" value="0" checked>
+     <label for="50">50万円</label>
+    </td>
+    <td>
+     <input type="radio" id="100" name="amount" onchange="calculate()" value="1">
+     <label for="100">100万円</label>
+    </td></tr>
+    <tr><td>
+     <input type="radio" id="200" name="amount" onchange="calculate()" value="2">
+     <label for="200">200万円</label>
+    </td>
+    <td>
+     <input type="radio" id="300" name="amount" onchange="calculate()" value="3">
+     <label for="300">300万円</label>
+    </td></tr>
+  </table><br>
+
+  <table class="ProductTable">
+    <tr><th>払込回数</th></tr>
+    <tr><td>
+     <input type="radio" id="month" name="times" onchange="calculate()" value="1" checked>
+     <label for="month">月払</label>
+     <input type="radio" id="year" name="times" onchange="calculate()" value="2">
+     <label for="year">年払</label>
+    </td></tr>
+  </table><br>
+
+<hr class="hr1">
+
+  <table class="ProductTable">
+    <tr>
+     <th>初年度の保険料
+      <div class="tooltip1">
+       <label class="helpbutton">
+       <p>
+       <input type="checkbox" class="checkhelp">
+        <div class="description1" style="font-weight: normal;">保険期間は1年間です。<br>
+        次年度以降の保険料は、更新日時点の年齢を基準に計算されます。</div>
+       </p>
+       </label>
+      </div>
+     </th>
+    </tr>
+    <tr>
+     <td>
+      <input id="premium" class="box2" type="text" readonly="">円
+     </td>
+    </tr>
+  </table>
+ </form>
+</body>
+</div>
+
+<script>
+  let age;
+
+  const userBirthdayYear = document.querySelector('.birthday-year');
+  const userBirthdayMonth = document.querySelector('.birthday-month');
+  const userBirthdayDay = document.querySelector('.birthday-day');
+  const ageDisplay1 = document.getElementById('ageDisplay1');
+  const ageDisplay2 = document.getElementById('ageDisplay2');
+
+function createOptionForElements(elem, val) {
+  let option = document.createElement('option');
+  option.text = val;
+  option.value = val;
+  elem.appendChild(option);
+}
+
+
+function calculateAge() {
+
+  const today = new Date();
+  const birthDate = new Date(userBirthdayYear.value, userBirthdayMonth.value - 1, userBirthdayDay.value);
+
+  let targetDate;
+  if (today.getDate() <= 15) {
+    // If today is between the 1st and 15th, target next month
+    targetDate = new Date(today.getFullYear(), today.getMonth() + 1, 1);
+  } else {
+    // If today is 16th or later, target the month after next
+    targetDate = new Date(today.getFullYear() + (today.getMonth() === 11 ? 1 : 0), (today.getMonth() + 2) % 12, 1);
+  }
+
+  age = targetDate.getFullYear() - birthDate.getFullYear();
+  const monthDiff = targetDate.getMonth() - birthDate.getMonth();
+
+  if (monthDiff < 0 || (monthDiff === 0 && targetDate.getDate() <= birthDate.getDate())) {
+    age--;
+  }
+
+  if (isNaN(age)) {
+    ageDisplay1.textContent = `契約年齢：-`;
+  } else {
+    ageDisplay1.textContent = `契約年齢：${age} 歳`;
+  }
+  ageDisplay2.textContent = `責任開始日：${targetDate.toLocaleDateString()}`;
+
+  return age;
+
+}
+
+
+userBirthdayYear.innerHTML = '<option value="-">-</option>';
+userBirthdayMonth.innerHTML = '<option value="-">-</option>';
+userBirthdayDay.innerHTML = '<option value="-">-</option>';
+
+
+for(let i = 1924; i <= 1980; i++) {
+  createOptionForElements(userBirthdayYear, i);
+}
+
+for(let i = 1; i <= 12; i++) {
+  createOptionForElements(userBirthdayMonth, i);
+}
+
+for(let i = 1; i <= 31; i++) {
+  createOptionForElements(userBirthdayDay, i);
+}
+
+function changeTheDay() {
+  if (userBirthdayYear.value && userBirthdayMonth.value) {
+    userBirthdayDay.innerHTML = '';
+    let lastDayOfTheMonth = new Date(userBirthdayYear.value, userBirthdayMonth.value, 0).getDate();
+    for(let i = 1; i <= lastDayOfTheMonth; i++) {
+      createOptionForElements(userBirthdayDay, i);
+    }
+  }
+  calculateAge();
+}
+
+userBirthdayYear.addEventListener('change', changeTheDay);
+userBirthdayMonth.addEventListener('change', changeTheDay);
+userBirthdayDay.addEventListener('change', calculateAge);
+
+// Initialize age calculation on page load
+calculateAge();
+
+</script>
+<script src="https://kizuna-ssi.github.io/template/premium.js"></script>
+
+</html>
