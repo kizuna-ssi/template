@@ -171,7 +171,7 @@
     } else if (a == 82 && b == 2 && c == 1) {
       document.getElementById("amount").value = "204,080";
     } else if (a == 83 && b == 2 && c == 1) {
-      document.getElementById("amount").value = "17,8890";
+      document.getElementById("amount").value = "178,890";
     } else if (a == 84 && b == 2 && c == 1) {
       document.getElementById("amount").value = "157,230";
     } else if (a == 85 && b == 2 && c == 1) {
