@@ -57,8 +57,7 @@
 }
 
   .sidebyside {
-    display: flex;
-    align-items: flex-start;
+    display: inline-block;
   }
 
   .box {
