@@ -50,16 +50,9 @@
   }
 
 @media (max-width: 600px) {
-    .ResultTable th {
-        visibility: hidden;
-    }
-
-    .ResultTable td:before {
-        content: attr(data-label);
-        float: left;
-        font-weight: bold;
-        text-transform: uppercase;
-        visibility: visible; /* 必要なラベルは表示 */
+    .ResultTable  {
+        display: block;
+        width: 100%;
     }
 }
 
