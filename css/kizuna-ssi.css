@@ -47,16 +47,22 @@
     border-spacing: 0px 5px;
   }
 
-@media only screen and (max-width:500px){
-    ResultTable tr{
-        display: block;
-        margin-bottom: 1.5em;
+@media (max-width: 650px) {
+    ResultTable{
+      width: 100%;
     }
     ResultTable th,
     ResultTable td{
-        display: list-item;
+      display: block;
     }
-}
+    ResultTable th,
+    ResultTable td{
+      border-top: none;    
+    }
+    ResultTable tr:first-child th{
+      border-top: 1px solid #999;
+    }
+  }
 
   .box {
     box-sizing: border-box;
