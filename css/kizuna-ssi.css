@@ -14,9 +14,9 @@
     max-width: 500px;
   }
 
-  .titleimg {
-    max-width: 200px;
-    height: auto;
+  .sidebyside {
+    display: flex;
+    align-items: flex-start;
   }
 
   .ProductTable {
