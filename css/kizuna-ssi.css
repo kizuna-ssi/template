@@ -24,11 +24,13 @@
   .ProductTable td {
     border: solid 1px #fff;
     padding: 5px 5px;
+    white-space: nowrap;
   }
 
   .ProductTable th {
     text-align: left;
     border-spacing: 0px 5px;
+    white-space: nowrap;
   }
 
   .box1 {
