@@ -50,14 +50,8 @@
   }
 
 @media (max-width: 600px) {
-    .ResultTable th,
-    .ResultTable td {
-        display: block;
-        width: 100%;
-    }
-
     .ResultTable th {
-        display: none;
+        visibility: hidden;
     }
 
     .ResultTable td:before {
@@ -65,6 +59,7 @@
         float: left;
         font-weight: bold;
         text-transform: uppercase;
+        visibility: visible; /* 必要なラベルは表示 */
     }
 }
 
