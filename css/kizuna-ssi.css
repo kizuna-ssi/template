@@ -18,7 +18,7 @@
     border: solid 1px #fff;
     border-collapse: separate;
     border-spacing: 0px 5px;
-    min-width:500px;
+    min-width:350px;
   }
 
   .ProductTable td {
@@ -33,7 +33,7 @@
 
   .box1 {
     box-sizing: border-box;
-    width: 150px !important;
+    width: 250px !important;
     height: 40px !important;
     margin: 0 !important;
     padding: 5px 10px !important;
@@ -46,7 +46,7 @@
 
   .box2 {
     box-sizing: border-box;
-    width: 150px !important;
+    width: 250px !important;
     height: 40px !important;
     margin: 0 !important;
     padding: 5px 10px !important;
