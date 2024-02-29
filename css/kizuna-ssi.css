@@ -30,27 +30,16 @@
     border-spacing: 0px 5px;
   }
 
-  .box {
-    box-sizing: border-box;
-    width: 195px !important;
-    height: 40px !important;
-    margin: 0 !important;
-    padding: 0 10px !important;
-    border: 1px solid #ccc;
-    color: #b9454b;
-    font-size: 100%;
-    text-align: center;
-  }
-
   .box1 {
     box-sizing: border-box;
-    width: 90px !important;
+    width: 150px !important;
     height: 40px !important;
     margin: 0 !important;
     padding: 0 10px !important;
-    border: 1px solid #ccc;
+    border: 1px solid #fff;
     color: #b9454b;
-    font-size: 100%;
+    font-size: 120%;
+    font-weight : bold;
     text-align: center;
   }
 
