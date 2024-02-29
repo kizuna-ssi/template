@@ -56,6 +56,11 @@
     }
 }
 
+  .sidebyside {
+    display: flex;
+    align-items: flex-start;
+  }
+
   .box {
     box-sizing: border-box;
     width: 195px !important;
