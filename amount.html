@@ -109,26 +109,64 @@
 
 <hr class="hr1">
 
-  <table class="ProductTable">
+ <table class="ProductTable">
     <tr>
-     <th>初年度の保険金額
+     <th>保険金額
       <div class="tooltip1">
        <label class="helpbutton">
        <p>
        <input type="checkbox" class="checkhelp">
-        <div class="description1" style="font-weight: normal;">保険期間は1年間です。<br>
-        次年度以降の保険金額は、更新日時点の年齢を基準に計算されます。</div>
+        <div class="description1" style="font-weight: normal;">
+         表示された保険金額は初年度の保険金額となります。次年度以降の保険金額は、更新日時点の年齢を基準に計算されます。
+        </div>
        </p>
        </label>
       </div>
      </th>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
      <td>
-      <input id="amount" class="box2" type="text" readonly="">円
+      <div style="display:none"><input id="amount" class="box1" type="text" readonly=""></div>
+      <div id="product2" class="box1" type="text" readonly=""></div>
      </td>
     </tr>
-  </table>
+ </table>
+ <table class="ProductTable" style="max-width: 250px;"> 
+    <tr>  
+     <td>契約年齢　：</td>
+     <td>
+      <div id="ageDisplay1" type="text" readonly=""></div>
+     </td>
+     <td>
+      <div class="tooltip1">
+       <label class="helpbutton">
+       <p>
+       <input type="checkbox" class="checkhelp">
+        <div class="description1" style="font-weight: normal;">
+         契約年齢とは責任開始日時点の年齢をいいます。契約年齢が50歳から80歳までの方がお申込みいただけます。</div>
+       </p>
+       </label>
+      </div>
+     </td>
+    </tr>
+    <tr>  
+     <td>責任開始日：</td>
+     <td>
+      <div id="ageDisplay2" type="text" readonly=""></div>
+     </td>
+     <td>
+      <div class="tooltip1">
+       <label class="helpbutton">
+       <p>
+       <input type="checkbox" class="checkhelp">
+        <div class="description1" style="font-weight: normal;">
+         責任開始日は、申込受付完了が月初～15日の場合は翌月の1日、16日～月末の場合は翌々月の1日となります。</div>
+       </p>
+       </label>
+      </div>
+     </td>
+    </tr>
+   </table>
 
     <hr class="hr1"><br><br>
 
