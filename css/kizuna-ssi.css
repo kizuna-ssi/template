@@ -15,7 +15,7 @@
   }
 
   .ProductTable {
-    border: solid 1px #fff;
+    border: solid 1px #000;
     border-collapse: separate;
     border-spacing: 0px 5px;
     width: 400px;
