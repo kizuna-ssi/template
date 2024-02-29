@@ -17,8 +17,7 @@
   </table>
 
    <hr class="hr1"><br>
-   
- <div class="sidebyside">
+  
   <table class="ProductTable">
     <tr><th colspan="2">生年月日</th><tr>
     <tr><td colspan="2">
@@ -53,12 +52,15 @@
        </label>
       </div>
      </td></tr>
+  </table><br>
 
-    <tr><th colspan="2">性別</th></tr>
-    <tr><td colspan="2">
+  <table class="ProductTable">
+    <tr><th>性別</th></tr>
+    <tr><td>
      <input type="radio" id="male" name="gender" onchange="calculate()" value="1" checked>
      <label for="male">男性</label>
-
+    </td>
+    <td>
      <input type="radio" id="female" name="gender" onchange="calculate()" value="2">
      <label for="female">女性</label>
     </td></tr>
@@ -82,7 +84,9 @@
      <input type="radio" id="300" name="amount" onchange="calculate()" value="3">
      <label for="300">300万円</label>
     </td></tr>
+  </table><br>
 
+  <table class="ProductTable">
     <tr><th>払込回数</th></tr>
     <tr><td>
      <input type="radio" id="month" name="times" onchange="calculate()" value="1" checked>
@@ -91,7 +95,6 @@
      <label for="year">年払</label>
     </td></tr>
   </table><br>
- </div>
 
 <hr class="hr1">
 
