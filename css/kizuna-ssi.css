@@ -64,6 +64,16 @@
     font-weight : bold;
   }
 
+.br-sp {
+    display: none;
+}
+
+@media (max-width: 600px) {
+    .br-sp {
+        display: block;
+    }
+}
+
   .order-button {
     display: inline-block;
     vertical-align: middle;
