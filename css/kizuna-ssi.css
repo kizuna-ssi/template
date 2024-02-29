@@ -42,7 +42,6 @@
     border: solid 1px #fff;
     padding: 5px 5px;
     text-align: center;
-    border-bottom: 1px solid #ddd;
   }
 
   .ResultTable th {
@@ -55,6 +54,17 @@
     .ResultTable td {
         display: block;
         width: 100%;
+    }
+
+    .ResultTable th {
+        display: none;
+    }
+
+    .ResultTable td:before {
+        content: attr(data-label);
+        float: left;
+        font-weight: bold;
+        text-transform: uppercase;
     }
 }
 
