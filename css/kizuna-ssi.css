@@ -49,17 +49,6 @@
     border-spacing: 0px 5px;
   }
 
-@media (max-width: 600px) {
-    .ResultTable  {
-        display: block;
-        width: 100%;
-    }
-}
-
-  .sidebyside {
-    display: inline-block;
-  }
-
   .box {
     box-sizing: border-box;
     width: 195px !important;
