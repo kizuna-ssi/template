@@ -30,6 +30,24 @@
     border-spacing: 0px 5px;
   }
 
+  .ResultTable {
+    border: solid 1px #fff;
+    border-collapse: separate;
+    border-spacing: 0px 5px;
+    table-layout: fixed;
+  }
+
+  .ResultTable td {
+    border: solid 1px #fff;
+    padding: 5px 5px;
+  }
+
+  .ResultTable th {
+    text-align: left;
+    border-spacing: 0px 5px;
+  }
+
+
   .box {
     box-sizing: border-box;
     width: 195px !important;
