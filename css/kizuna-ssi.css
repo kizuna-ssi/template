@@ -49,6 +49,20 @@
     border-spacing: 0px 5px;
   }
 
+@media screen and (max-width: 640px) {
+  .last td:last-child {
+    width: 100%;
+  }
+  .ResultTable {
+    width: 80%;
+  }
+  .ResultTable th,
+  .ResultTable td {
+    display: block;
+    width: 100%;
+  }
+}
+
 
   .box {
     box-sizing: border-box;
