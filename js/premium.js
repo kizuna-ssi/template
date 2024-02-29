@@ -1615,5 +1615,6 @@
 
     } else {
       document.getElementById("premium").value = "引受不可";
+      document.getElementById("product").innerText = "引受不可";
     }
   }
