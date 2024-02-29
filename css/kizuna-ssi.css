@@ -236,6 +236,7 @@
   align-items: center;
   width: 50%;
   height: 24px;
+  margin: auto;
   padding: 8px 64px 8px 8px;
   font-family: sans-serif;
   font-size: 16px;
