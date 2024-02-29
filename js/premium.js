@@ -28,90 +28,92 @@
       document.getElementById("product").innerText = "890円/月";
     } else if (a == 57 && b == 1 && c == 1 && d == 1) {
       document.getElementById("premium").value = "950";
+      document.getElementById("product").innerText = "950円/月";
     } else if (a == 58 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,020";
+      document.getElementById("premium").value = "1020";
+      document.getElementById("product").innerText = "1,020円/月";
     } else if (a == 59 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,090";
+      document.getElementById("premium").value = "1090";
     } else if (a == 60 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,180";
+      document.getElementById("premium").value = "1180";
     } else if (a == 61 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,300";
+      document.getElementById("premium").value = "1300";
     } else if (a == 62 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,430";
+      document.getElementById("premium").value = "1430";
     } else if (a == 63 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,560";
+      document.getElementById("premium").value = "1560";
     } else if (a == 64 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,690";
+      document.getElementById("premium").value = "1690";
     } else if (a == 65 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,850";
+      document.getElementById("premium").value = "1850";
     } else if (a == 66 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "2,020";
+      document.getElementById("premium").value = "2020";
     } else if (a == 67 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "2,190";
+      document.getElementById("premium").value = "2190";
     } else if (a == 68 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "2,370";
+      document.getElementById("premium").value = "2370";
     } else if (a == 69 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "2,570";
+      document.getElementById("premium").value = "2570";
     } else if (a == 70 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "2,800";
+      document.getElementById("premium").value = "2800";
     } else if (a == 71 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "3,060";
+      document.getElementById("premium").value = "3060";
     } else if (a == 72 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "3,330";
+      document.getElementById("premium").value = "3330";
     } else if (a == 73 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "3,610";
+      document.getElementById("premium").value = "3610";
     } else if (a == 74 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "3,910";
+      document.getElementById("premium").value = "3910";
     } else if (a == 75 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "4,300";
+      document.getElementById("premium").value = "4300";
     } else if (a == 76 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "4,770";
+      document.getElementById("premium").value = "4770";
     } else if (a == 77 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "5,340";
+      document.getElementById("premium").value = "5340";
     } else if (a == 78 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "6,020";
+      document.getElementById("premium").value = "6020";
     } else if (a == 79 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "6,800";
+      document.getElementById("premium").value = "6800";
     } else if (a == 80 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "7,590";
+      document.getElementById("premium").value = "7590";
     } else if (a == 81 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "8,510";
+      document.getElementById("premium").value = "8510";
     } else if (a == 82 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "9,530";
+      document.getElementById("premium").value = "9530";
     } else if (a == 83 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "10,690";
+      document.getElementById("premium").value = "10690";
     } else if (a == 84 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "12,000";
+      document.getElementById("premium").value = "12000";
     } else if (a == 85 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "13,440";
+      document.getElementById("premium").value = "13440";
     } else if (a == 86 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "14,970";
+      document.getElementById("premium").value = "14970";
     } else if (a == 87 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "16,650";
+      document.getElementById("premium").value = "16650";
     } else if (a == 88 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "18,500";
+      document.getElementById("premium").value = "18500";
     } else if (a == 89 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "20,580";
+      document.getElementById("premium").value = "20580";
     } else if (a == 90 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "22,930";
+      document.getElementById("premium").value = "22930";
     } else if (a == 91 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "25,530";
+      document.getElementById("premium").value = "25530";
     } else if (a == 92 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "28,520";
+      document.getElementById("premium").value = "28520";
     } else if (a == 93 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "31,830";
+      document.getElementById("premium").value = "31830";
     } else if (a == 94 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "35,150";
+      document.getElementById("premium").value = "35150";
     } else if (a == 95 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "38,100";
+      document.getElementById("premium").value = "38100";
     } else if (a == 96 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "41,410";
+      document.getElementById("premium").value = "41410";
     } else if (a == 97 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "44,920";
+      document.getElementById("premium").value = "44920";
     } else if (a == 98 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "48,670";
+      document.getElementById("premium").value = "48670";
     } else if (a == 99 && b == 1 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "52,690";
+      document.getElementById("premium").value = "52690";
     } else if (a == 50 && b == 2 && c == 1 && d == 1) {
       document.getElementById("premium").value = "400";
     } else if (a == 51 && b == 2 && c == 1 && d == 1) {
@@ -147,171 +149,171 @@
     } else if (a == 66 && b == 2 && c == 1 && d == 1) {
       document.getElementById("premium").value = "960";
     } else if (a == 67 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,030";
+      document.getElementById("premium").value = "1030";
     } else if (a == 68 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,110";
+      document.getElementById("premium").value = "1110";
     } else if (a == 69 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,200";
+      document.getElementById("premium").value = "1200";
     } else if (a == 70 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,310";
+      document.getElementById("premium").value = "1310";
     } else if (a == 71 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,430";
+      document.getElementById("premium").value = "1430";
     } else if (a == 72 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,570";
+      document.getElementById("premium").value = "1570";
     } else if (a == 73 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,710";
+      document.getElementById("premium").value = "1710";
     } else if (a == 74 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "1,870";
+      document.getElementById("premium").value = "1870";
     } else if (a == 75 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "2,060";
+      document.getElementById("premium").value = "2060";
     } else if (a == 76 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "2,310";
+      document.getElementById("premium").value = "2310";
     } else if (a == 77 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "2,620";
+      document.getElementById("premium").value = "2620";
     } else if (a == 78 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "2,980";
+      document.getElementById("premium").value = "2980";
     } else if (a == 79 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "3,390";
+      document.getElementById("premium").value = "3390";
     } else if (a == 80 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "3,820";
+      document.getElementById("premium").value = "3820";
     } else if (a == 81 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "4,320";
+      document.getElementById("premium").value = "4320";
     } else if (a == 82 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "4,900";
+      document.getElementById("premium").value = "4900";
     } else if (a == 83 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "5,590";
+      document.getElementById("premium").value = "5590";
     } else if (a == 84 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "6,360";
+      document.getElementById("premium").value = "6360";
     } else if (a == 85 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "7,220";
+      document.getElementById("premium").value = "7220";
     } else if (a == 86 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "8,210";
+      document.getElementById("premium").value = "8210";
     } else if (a == 87 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "9,350";
+      document.getElementById("premium").value = "9350";
     } else if (a == 88 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "10,700";
+      document.getElementById("premium").value = "10700";
     } else if (a == 89 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "12,210";
+      document.getElementById("premium").value = "12210";
     } else if (a == 90 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "13,920";
+      document.getElementById("premium").value = "13920";
     } else if (a == 91 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "15,870";
+      document.getElementById("premium").value = "15870";
     } else if (a == 92 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "18,190";
+      document.getElementById("premium").value = "18190";
     } else if (a == 93 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "20,820";
+      document.getElementById("premium").value = "20820";
     } else if (a == 94 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "23,690";
+      document.getElementById("premium").value = "23690";
     } else if (a == 95 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "26,870";
+      document.getElementById("premium").value = "26870";
     } else if (a == 96 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "29,870";
+      document.getElementById("premium").value = "29870";
     } else if (a == 97 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "33,000";
+      document.getElementById("premium").value = "33000";
     } else if (a == 98 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "36,280";
+      document.getElementById("premium").value = "36280";
     } else if (a == 99 && b == 2 && c == 1 && d == 1) {
-      document.getElementById("premium").value = "39,710";
+      document.getElementById("premium").value = "39710";
     } else if (a == 50 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,160";
+      document.getElementById("premium").value = "1160";
     } else if (a == 51 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,240";
+      document.getElementById("premium").value = "1240";
     } else if (a == 52 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,340";
+      document.getElementById("premium").value = "1340";
     } else if (a == 53 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,420";
+      document.getElementById("premium").value = "1420";
     } else if (a == 54 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,540";
+      document.getElementById("premium").value = "1540";
     } else if (a == 55 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,660";
+      document.getElementById("premium").value = "1660";
     } else if (a == 56 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,780";
+      document.getElementById("premium").value = "1780";
     } else if (a == 57 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,900";
+      document.getElementById("premium").value = "1900";
     } else if (a == 58 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "2,040";
+      document.getElementById("premium").value = "2040";
     } else if (a == 59 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "2,180";
+      document.getElementById("premium").value = "2180";
     } else if (a == 60 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "2,360";
+      document.getElementById("premium").value = "2360";
     } else if (a == 61 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "2,600";
+      document.getElementById("premium").value = "2600";
     } else if (a == 62 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "2,860";
+      document.getElementById("premium").value = "2860";
     } else if (a == 63 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "3,120";
+      document.getElementById("premium").value = "3120";
     } else if (a == 64 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "3,380";
+      document.getElementById("premium").value = "3380";
     } else if (a == 65 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "3,700";
+      document.getElementById("premium").value = "3700";
     } else if (a == 66 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "4,040";
+      document.getElementById("premium").value = "4040";
     } else if (a == 67 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "4,380";
+      document.getElementById("premium").value = "4380";
     } else if (a == 68 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "4,740";
+      document.getElementById("premium").value = "4740";
     } else if (a == 69 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "5,140";
+      document.getElementById("premium").value = "5140";
     } else if (a == 70 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "5,600";
+      document.getElementById("premium").value = "5600";
     } else if (a == 71 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "6,120";
+      document.getElementById("premium").value = "6120";
     } else if (a == 72 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "6,660";
+      document.getElementById("premium").value = "6660";
     } else if (a == 73 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "7,220";
+      document.getElementById("premium").value = "7220";
     } else if (a == 74 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "7,820";
+      document.getElementById("premium").value = "7820";
     } else if (a == 75 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "8,600";
+      document.getElementById("premium").value = "8600";
     } else if (a == 76 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "9,540";
+      document.getElementById("premium").value = "9540";
     } else if (a == 77 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "10,680";
+      document.getElementById("premium").value = "10680";
     } else if (a == 78 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "12,040";
+      document.getElementById("premium").value = "12040";
     } else if (a == 79 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "13,600";
+      document.getElementById("premium").value = "13600";
     } else if (a == 80 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "15,180";
+      document.getElementById("premium").value = "15180";
     } else if (a == 81 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "17,020";
+      document.getElementById("premium").value = "17020";
     } else if (a == 82 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "19,060";
+      document.getElementById("premium").value = "19060";
     } else if (a == 83 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "21,380";
+      document.getElementById("premium").value = "21380";
     } else if (a == 84 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "24,000";
+      document.getElementById("premium").value = "24000";
     } else if (a == 85 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "26,880";
+      document.getElementById("premium").value = "26880";
     } else if (a == 86 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "29,940";
+      document.getElementById("premium").value = "29940";
     } else if (a == 87 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "33,300";
+      document.getElementById("premium").value = "33300";
     } else if (a == 88 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "37,000";
+      document.getElementById("premium").value = "37000";
     } else if (a == 89 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "41,160";
+      document.getElementById("premium").value = "41160";
     } else if (a == 90 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "45,860";
+      document.getElementById("premium").value = "45860";
     } else if (a == 91 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "51,060";
+      document.getElementById("premium").value = "51060";
     } else if (a == 92 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "57,040";
+      document.getElementById("premium").value = "57040";
     } else if (a == 93 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "63,660";
+      document.getElementById("premium").value = "63660";
     } else if (a == 94 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "70,300";
+      document.getElementById("premium").value = "70300";
     } else if (a == 95 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "76,200";
+      document.getElementById("premium").value = "76200";
     } else if (a == 96 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "82,820";
+      document.getElementById("premium").value = "82820";
     } else if (a == 97 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "89,840";
+      document.getElementById("premium").value = "89840";
     } else if (a == 98 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "97,340";
+      document.getElementById("premium").value = "97340";
     } else if (a == 99 && b == 1 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "105,380";
+      document.getElementById("premium").value = "105380";
     } else if (a == 50 && b == 2 && c == 2 && d == 1) {
       document.getElementById("premium").value = "800";
     } else if (a == 51 && b == 2 && c == 2 && d == 1) {
@@ -321,897 +323,897 @@
     } else if (a == 53 && b == 2 && c == 2 && d == 1) {
       document.getElementById("premium").value = "960";
     } else if (a == 54 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,000";
+      document.getElementById("premium").value = "1000";
     } else if (a == 55 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,040";
+      document.getElementById("premium").value = "1040";
     } else if (a == 56 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,080";
+      document.getElementById("premium").value = "1080";
     } else if (a == 57 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,120";
+      document.getElementById("premium").value = "1120";
     } else if (a == 58 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,160";
+      document.getElementById("premium").value = "1160";
     } else if (a == 59 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,240";
+      document.getElementById("premium").value = "1240";
     } else if (a == 60 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,300";
+      document.getElementById("premium").value = "1300";
     } else if (a == 61 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,400";
+      document.getElementById("premium").value = "1400";
     } else if (a == 62 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,480";
+      document.getElementById("premium").value = "1480";
     } else if (a == 63 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,580";
+      document.getElementById("premium").value = "1580";
     } else if (a == 64 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,680";
+      document.getElementById("premium").value = "1680";
     } else if (a == 65 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,800";
+      document.getElementById("premium").value = "1800";
     } else if (a == 66 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "1,920";
+      document.getElementById("premium").value = "1920";
     } else if (a == 67 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "2,060";
+      document.getElementById("premium").value = "2060";
     } else if (a == 68 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "2,220";
+      document.getElementById("premium").value = "2220";
     } else if (a == 69 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "2,400";
+      document.getElementById("premium").value = "2400";
     } else if (a == 70 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "2,620";
+      document.getElementById("premium").value = "2620";
     } else if (a == 71 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "2,860";
+      document.getElementById("premium").value = "2860";
     } else if (a == 72 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "3,140";
+      document.getElementById("premium").value = "3140";
     } else if (a == 73 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "3,420";
+      document.getElementById("premium").value = "3420";
     } else if (a == 74 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "3,740";
+      document.getElementById("premium").value = "3740";
     } else if (a == 75 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "4,120";
+      document.getElementById("premium").value = "4120";
     } else if (a == 76 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "4,620";
+      document.getElementById("premium").value = "4620";
     } else if (a == 77 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "5,240";
+      document.getElementById("premium").value = "5240";
     } else if (a == 78 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "5,960";
+      document.getElementById("premium").value = "5960";
     } else if (a == 79 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "6,780";
+      document.getElementById("premium").value = "6780";
     } else if (a == 80 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "7,640";
+      document.getElementById("premium").value = "7640";
     } else if (a == 81 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "8,640";
+      document.getElementById("premium").value = "8640";
     } else if (a == 82 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "9,800";
+      document.getElementById("premium").value = "9800";
     } else if (a == 83 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "11,180";
+      document.getElementById("premium").value = "11180";
     } else if (a == 84 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "12,720";
+      document.getElementById("premium").value = "12720";
     } else if (a == 85 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "14,440";
+      document.getElementById("premium").value = "14440";
     } else if (a == 86 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "16,420";
+      document.getElementById("premium").value = "16420";
     } else if (a == 87 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "18,700";
+      document.getElementById("premium").value = "18700";
     } else if (a == 88 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "21,400";
+      document.getElementById("premium").value = "21400";
     } else if (a == 89 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "24,420";
+      document.getElementById("premium").value = "24420";
     } else if (a == 90 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "27,840";
+      document.getElementById("premium").value = "27840";
     } else if (a == 91 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "31,740";
+      document.getElementById("premium").value = "31740";
     } else if (a == 92 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "36,380";
+      document.getElementById("premium").value = "36380";
     } else if (a == 93 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "41,640";
+      document.getElementById("premium").value = "41640";
     } else if (a == 94 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "47,380";
+      document.getElementById("premium").value = "47380";
     } else if (a == 95 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "53,740";
+      document.getElementById("premium").value = "53740";
     } else if (a == 96 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "59,740";
+      document.getElementById("premium").value = "59740";
     } else if (a == 97 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "66,000";
+      document.getElementById("premium").value = "66000";
     } else if (a == 98 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "72,560";
+      document.getElementById("premium").value = "72560";
     } else if (a == 99 && b == 2 && c == 2 && d == 1) {
-      document.getElementById("premium").value = "79,420";
+      document.getElementById("premium").value = "79420";
     } else if (a == 50 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,740";
+      document.getElementById("premium").value = "1740";
     } else if (a == 51 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,860";
+      document.getElementById("premium").value = "1860";
     } else if (a == 52 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "2,010";
+      document.getElementById("premium").value = "2010";
     } else if (a == 53 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "2,130";
+      document.getElementById("premium").value = "2130";
     } else if (a == 54 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "2,310";
+      document.getElementById("premium").value = "2310";
     } else if (a == 55 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "2,490";
+      document.getElementById("premium").value = "2490";
     } else if (a == 56 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "2,670";
+      document.getElementById("premium").value = "2670";
     } else if (a == 57 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "2,850";
+      document.getElementById("premium").value = "2850";
     } else if (a == 58 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "3,060";
+      document.getElementById("premium").value = "3060";
     } else if (a == 59 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "3,270";
+      document.getElementById("premium").value = "3270";
     } else if (a == 60 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "3,540";
+      document.getElementById("premium").value = "3540";
     } else if (a == 61 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "3,900";
+      document.getElementById("premium").value = "3900";
     } else if (a == 62 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "4,290";
+      document.getElementById("premium").value = "4290";
     } else if (a == 63 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "4,680";
+      document.getElementById("premium").value = "4680";
     } else if (a == 64 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "5,070";
+      document.getElementById("premium").value = "5070";
     } else if (a == 65 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "5,550";
+      document.getElementById("premium").value = "5550";
     } else if (a == 66 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "6,060";
+      document.getElementById("premium").value = "6060";
     } else if (a == 67 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "6,570";
+      document.getElementById("premium").value = "6570";
     } else if (a == 68 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "7,110";
+      document.getElementById("premium").value = "7110";
     } else if (a == 69 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "7,710";
+      document.getElementById("premium").value = "7710";
     } else if (a == 70 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "8,400";
+      document.getElementById("premium").value = "8400";
     } else if (a == 71 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "9,180";
+      document.getElementById("premium").value = "9180";
     } else if (a == 72 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "9,990";
+      document.getElementById("premium").value = "9990";
     } else if (a == 73 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "10,830";
+      document.getElementById("premium").value = "10830";
     } else if (a == 74 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "11,730";
+      document.getElementById("premium").value = "11730";
     } else if (a == 75 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "12,900";
+      document.getElementById("premium").value = "12900";
     } else if (a == 76 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "14,310";
+      document.getElementById("premium").value = "14310";
     } else if (a == 77 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "16,020";
+      document.getElementById("premium").value = "16020";
     } else if (a == 78 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "18,060";
+      document.getElementById("premium").value = "18060";
     } else if (a == 79 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "20,400";
+      document.getElementById("premium").value = "20400";
     } else if (a == 80 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "22,770";
+      document.getElementById("premium").value = "22770";
     } else if (a == 81 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "25,530";
+      document.getElementById("premium").value = "25530";
     } else if (a == 82 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "28,590";
+      document.getElementById("premium").value = "28590";
     } else if (a == 83 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "32,070";
+      document.getElementById("premium").value = "32070";
     } else if (a == 84 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "36,000";
+      document.getElementById("premium").value = "36000";
     } else if (a == 85 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "40,320";
+      document.getElementById("premium").value = "40320";
     } else if (a == 86 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "44,910";
+      document.getElementById("premium").value = "44910";
     } else if (a == 87 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "49,950";
+      document.getElementById("premium").value = "49950";
     } else if (a == 88 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "55,500";
+      document.getElementById("premium").value = "55500";
     } else if (a == 89 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "61,740";
+      document.getElementById("premium").value = "61740";
     } else if (a == 90 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "68,790";
+      document.getElementById("premium").value = "68790";
     } else if (a == 91 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "76,590";
+      document.getElementById("premium").value = "76590";
     } else if (a == 92 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "85,560";
+      document.getElementById("premium").value = "85560";
     } else if (a == 93 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "95,490";
+      document.getElementById("premium").value = "95490";
     } else if (a == 94 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "105,450";
+      document.getElementById("premium").value = "105450";
     } else if (a == 95 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "114,300";
+      document.getElementById("premium").value = "114300";
     } else if (a == 96 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "124,230";
+      document.getElementById("premium").value = "124230";
     } else if (a == 97 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "134,760";
+      document.getElementById("premium").value = "134760";
     } else if (a == 98 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "146,010";
+      document.getElementById("premium").value = "146010";
     } else if (a == 99 && b == 1 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "158,070";
+      document.getElementById("premium").value = "158070";
     } else if (a == 50 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,200";
+      document.getElementById("premium").value = "1200";
     } else if (a == 51 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,260";
+      document.getElementById("premium").value = "1260";
     } else if (a == 52 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,350";
+      document.getElementById("premium").value = "1350";
     } else if (a == 53 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,440";
+      document.getElementById("premium").value = "1440";
     } else if (a == 54 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,500";
+      document.getElementById("premium").value = "1500";
     } else if (a == 55 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,560";
+      document.getElementById("premium").value = "1560";
     } else if (a == 56 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,620";
+      document.getElementById("premium").value = "1620";
     } else if (a == 57 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,680";
+      document.getElementById("premium").value = "1680";
     } else if (a == 58 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,740";
+      document.getElementById("premium").value = "1740";
     } else if (a == 59 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,860";
+      document.getElementById("premium").value = "1860";
     } else if (a == 60 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "1,950";
+      document.getElementById("premium").value = "1950";
     } else if (a == 61 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "2,100";
+      document.getElementById("premium").value = "2100";
     } else if (a == 62 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "2,220";
+      document.getElementById("premium").value = "2220";
     } else if (a == 63 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "2,370";
+      document.getElementById("premium").value = "2370";
     } else if (a == 64 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "2,520";
+      document.getElementById("premium").value = "2520";
     } else if (a == 65 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "2,700";
+      document.getElementById("premium").value = "2700";
     } else if (a == 66 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "2,880";
+      document.getElementById("premium").value = "2880";
     } else if (a == 67 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "3,090";
+      document.getElementById("premium").value = "3090";
     } else if (a == 68 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "3,330";
+      document.getElementById("premium").value = "3330";
     } else if (a == 69 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "3,600";
+      document.getElementById("premium").value = "3600";
     } else if (a == 70 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "3,930";
+      document.getElementById("premium").value = "3930";
     } else if (a == 71 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "4,290";
+      document.getElementById("premium").value = "4290";
     } else if (a == 72 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "4,710";
+      document.getElementById("premium").value = "4710";
     } else if (a == 73 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "5,130";
+      document.getElementById("premium").value = "5130";
     } else if (a == 74 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "5,610";
+      document.getElementById("premium").value = "5610";
     } else if (a == 75 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "6,180";
+      document.getElementById("premium").value = "6180";
     } else if (a == 76 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "6,930";
+      document.getElementById("premium").value = "6930";
     } else if (a == 77 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "7,860";
+      document.getElementById("premium").value = "7860";
     } else if (a == 78 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "8,940";
+      document.getElementById("premium").value = "8940";
     } else if (a == 79 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "10,170";
+      document.getElementById("premium").value = "10170";
     } else if (a == 80 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "11,460";
+      document.getElementById("premium").value = "11460";
     } else if (a == 81 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "12,960";
+      document.getElementById("premium").value = "12960";
     } else if (a == 82 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "14,700";
+      document.getElementById("premium").value = "14700";
     } else if (a == 83 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "16,770";
+      document.getElementById("premium").value = "16770";
     } else if (a == 84 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "19,080";
+      document.getElementById("premium").value = "19080";
     } else if (a == 85 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "21,660";
+      document.getElementById("premium").value = "21660";
     } else if (a == 86 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "24,630";
+      document.getElementById("premium").value = "24630";
     } else if (a == 87 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "28,050";
+      document.getElementById("premium").value = "28050";
     } else if (a == 88 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "32,100";
+      document.getElementById("premium").value = "32100";
     } else if (a == 89 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "36,630";
+      document.getElementById("premium").value = "36630";
     } else if (a == 90 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "41,760";
+      document.getElementById("premium").value = "41760";
     } else if (a == 91 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "47,610";
+      document.getElementById("premium").value = "47610";
     } else if (a == 92 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "54,570";
+      document.getElementById("premium").value = "54570";
     } else if (a == 93 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "62,460";
+      document.getElementById("premium").value = "62460";
     } else if (a == 94 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "71,070";
+      document.getElementById("premium").value = "71070";
     } else if (a == 95 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "80,610";
+      document.getElementById("premium").value = "80610";
     } else if (a == 96 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "89,610";
+      document.getElementById("premium").value = "89610";
     } else if (a == 97 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "99,000";
+      document.getElementById("premium").value = "99000";
     } else if (a == 98 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "108,840";
+      document.getElementById("premium").value = "108840";
     } else if (a == 99 && b == 2 && c == 3 && d == 1) {
-      document.getElementById("premium").value = "119,130";
+      document.getElementById("premium").value = "119130";
     } else if (a == 50 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "6,810";
+      document.getElementById("premium").value = "6810";
     } else if (a == 51 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "7,270";
+      document.getElementById("premium").value = "7270";
     } else if (a == 52 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "7,800";
+      document.getElementById("premium").value = "7800";
     } else if (a == 53 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "8,340";
+      document.getElementById("premium").value = "8340";
     } else if (a == 54 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "8,970";
+      document.getElementById("premium").value = "8970";
     } else if (a == 55 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "9,680";
+      document.getElementById("premium").value = "9680";
     } else if (a == 56 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "10,420";
+      document.getElementById("premium").value = "10420";
     } else if (a == 57 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "11,150";
+      document.getElementById("premium").value = "11150";
     } else if (a == 58 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "11,890";
+      document.getElementById("premium").value = "11890";
     } else if (a == 59 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "12,750";
+      document.getElementById("premium").value = "12750";
     } else if (a == 60 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "13,780";
+      document.getElementById("premium").value = "13780";
     } else if (a == 61 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "15,140";
+      document.getElementById("premium").value = "15140";
     } else if (a == 62 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "16,650";
+      document.getElementById("premium").value = "16650";
     } else if (a == 63 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "18,190";
+      document.getElementById("premium").value = "18190";
     } else if (a == 64 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "19,720";
+      document.getElementById("premium").value = "19720";
     } else if (a == 65 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "21,540";
+      document.getElementById("premium").value = "21540";
     } else if (a == 66 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "23,480";
+      document.getElementById("premium").value = "23480";
     } else if (a == 67 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "25,460";
+      document.getElementById("premium").value = "25460";
     } else if (a == 68 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "27,630";
+      document.getElementById("premium").value = "27630";
     } else if (a == 69 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "29,930";
+      document.getElementById("premium").value = "29930";
     } else if (a == 70 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "32,530";
+      document.getElementById("premium").value = "32530";
     } else if (a == 71 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "35,490";
+      document.getElementById("premium").value = "35490";
     } else if (a == 72 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "38,670";
+      document.getElementById("premium").value = "38670";
     } else if (a == 73 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "41,790";
+      document.getElementById("premium").value = "41790";
     } else if (a == 74 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "45,290";
+      document.getElementById("premium").value = "45290";
     } else if (a == 75 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "49,650";
+      document.getElementById("premium").value = "49650";
     } else if (a == 76 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "55,000";
+      document.getElementById("premium").value = "55000";
     } else if (a == 77 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "61,480";
+      document.getElementById("premium").value = "61480";
     } else if (a == 78 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "69,170";
+      document.getElementById("premium").value = "69170";
     } else if (a == 79 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "77,900";
+      document.getElementById("premium").value = "77900";
     } else if (a == 80 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "86,720";
+      document.getElementById("premium").value = "86720";
     } else if (a == 81 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "96,800";
+      document.getElementById("premium").value = "96800";
     } else if (a == 82 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "108,070";
+      document.getElementById("premium").value = "108070";
     } else if (a == 83 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "120,650";
+      document.getElementById("premium").value = "120650";
     } else if (a == 84 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "134,720";
+      document.getElementById("premium").value = "134720";
     } else if (a == 85 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "150,060";
+      document.getElementById("premium").value = "150060";
     } else if (a == 86 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "166,120";
+      document.getElementById("premium").value = "166120";
     } else if (a == 87 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "183,430";
+      document.getElementById("premium").value = "183430";
     } else if (a == 88 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "202,370";
+      document.getElementById("premium").value = "202370";
     } else if (a == 89 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "223,170";
+      document.getElementById("premium").value = "223170";
     } else if (a == 90 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "246,320";
+      document.getElementById("premium").value = "246320";
     } else if (a == 91 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "271,420";
+      document.getElementById("premium").value = "271420";
     } else if (a == 92 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "299,580";
+      document.getElementById("premium").value = "299580";
     } else if (a == 93 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "329,970";
+      document.getElementById("premium").value = "329970";
     } else if (a == 94 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "359,510";
+      document.getElementById("premium").value = "359510";
     } else if (a == 95 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "385,050";
+      document.getElementById("premium").value = "385050";
     } else if (a == 96 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "412,890";
+      document.getElementById("premium").value = "412890";
     } else if (a == 97 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "441,580";
+      document.getElementById("premium").value = "441580";
     } else if (a == 98 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "471,240";
+      document.getElementById("premium").value = "471240";
     } else if (a == 99 && b == 1 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "501,950";
+      document.getElementById("premium").value = "501950";
     } else if (a == 50 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "4,690";
+      document.getElementById("premium").value = "4690";
     } else if (a == 51 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "4,980";
+      document.getElementById("premium").value = "4980";
     } else if (a == 52 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "5,280";
+      document.getElementById("premium").value = "5280";
     } else if (a == 53 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "5,580";
+      document.getElementById("premium").value = "5580";
     } else if (a == 54 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "5,860";
+      document.getElementById("premium").value = "5860";
     } else if (a == 55 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "6,120";
+      document.getElementById("premium").value = "6120";
     } else if (a == 56 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "6,340";
+      document.getElementById("premium").value = "6340";
     } else if (a == 57 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "6,570";
+      document.getElementById("premium").value = "6570";
     } else if (a == 58 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "6,820";
+      document.getElementById("premium").value = "6820";
     } else if (a == 59 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "7,200";
+      document.getElementById("premium").value = "7200";
     } else if (a == 60 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "7,650";
+      document.getElementById("premium").value = "7650";
     } else if (a == 61 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "8,180";
+      document.getElementById("premium").value = "8180";
     } else if (a == 62 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "8,700";
+      document.getElementById("premium").value = "8700";
     } else if (a == 63 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "9,230";
+      document.getElementById("premium").value = "9230";
     } else if (a == 64 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "9,800";
+      document.getElementById("premium").value = "9800";
     } else if (a == 65 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "10,490";
+      document.getElementById("premium").value = "10490";
     } else if (a == 66 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "11,270";
+      document.getElementById("premium").value = "11270";
     } else if (a == 67 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "12,080";
+      document.getElementById("premium").value = "12080";
     } else if (a == 68 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "13,000";
+      document.getElementById("premium").value = "13000";
     } else if (a == 69 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "14,050";
+      document.getElementById("premium").value = "14050";
     } else if (a == 70 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "15,290";
+      document.getElementById("premium").value = "15290";
     } else if (a == 71 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "16,710";
+      document.getElementById("premium").value = "16710";
     } else if (a == 72 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "18,310";
+      document.getElementById("premium").value = "18310";
     } else if (a == 73 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "19,930";
+      document.getElementById("premium").value = "19930";
     } else if (a == 74 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "21,760";
+      document.getElementById("premium").value = "21760";
     } else if (a == 75 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "24,050";
+      document.getElementById("premium").value = "24050";
     } else if (a == 76 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "26,940";
+      document.getElementById("premium").value = "26940";
     } else if (a == 77 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "30,450";
+      document.getElementById("premium").value = "30450";
     } else if (a == 78 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "34,560";
+      document.getElementById("premium").value = "34560";
     } else if (a == 79 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "39,320";
+      document.getElementById("premium").value = "39320";
     } else if (a == 80 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "44,220";
+      document.getElementById("premium").value = "44220";
     } else if (a == 81 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "49,860";
+      document.getElementById("premium").value = "49860";
     } else if (a == 82 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "56,530";
+      document.getElementById("premium").value = "56530";
     } else if (a == 83 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "64,240";
+      document.getElementById("premium").value = "64240";
     } else if (a == 84 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "72,870";
+      document.getElementById("premium").value = "72870";
     } else if (a == 85 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "82,480";
+      document.getElementById("premium").value = "82480";
     } else if (a == 86 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "93,400";
+      document.getElementById("premium").value = "93400";
     } else if (a == 87 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "105,930";
+      document.getElementById("premium").value = "105930";
     } else if (a == 88 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "120,450";
+      document.getElementById("premium").value = "120450";
     } else if (a == 89 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "136,650";
+      document.getElementById("premium").value = "136650";
     } else if (a == 90 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "154,710";
+      document.getElementById("premium").value = "154710";
     } else if (a == 91 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "174,960";
+      document.getElementById("premium").value = "174960";
     } else if (a == 92 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "198,620";
+      document.getElementById("premium").value = "198620";
     } else if (a == 93 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "224,930";
+      document.getElementById("premium").value = "224930";
     } else if (a == 94 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "252,940";
+      document.getElementById("premium").value = "252940";
     } else if (a == 95 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "283,170";
+      document.getElementById("premium").value = "283170";
     } else if (a == 96 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "310,860";
+      document.getElementById("premium").value = "310860";
     } else if (a == 97 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "339,010";
+      document.getElementById("premium").value = "339010";
     } else if (a == 98 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "367,620";
+      document.getElementById("premium").value = "367620";
     } else if (a == 99 && b == 2 && c == 1 && d == 2) {
-      document.getElementById("premium").value = "396,750";
+      document.getElementById("premium").value = "396750";
     } else if (a == 50 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "13,620";
+      document.getElementById("premium").value = "13620";
     } else if (a == 51 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "14,540";
+      document.getElementById("premium").value = "14540";
     } else if (a == 52 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "15,600";
+      document.getElementById("premium").value = "15600";
     } else if (a == 53 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "16,680";
+      document.getElementById("premium").value = "16680";
     } else if (a == 54 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "17,940";
+      document.getElementById("premium").value = "17940";
     } else if (a == 55 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "19,360";
+      document.getElementById("premium").value = "19360";
     } else if (a == 56 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "20,840";
+      document.getElementById("premium").value = "20840";
     } else if (a == 57 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "22,300";
+      document.getElementById("premium").value = "22300";
     } else if (a == 58 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "23,780";
+      document.getElementById("premium").value = "23780";
     } else if (a == 59 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "25,500";
+      document.getElementById("premium").value = "25500";
     } else if (a == 60 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "27,560";
+      document.getElementById("premium").value = "27560";
     } else if (a == 61 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "30,280";
+      document.getElementById("premium").value = "30280";
     } else if (a == 62 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "33,300";
+      document.getElementById("premium").value = "33300";
     } else if (a == 63 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "36,380";
+      document.getElementById("premium").value = "36380";
     } else if (a == 64 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "39,440";
+      document.getElementById("premium").value = "39440";
     } else if (a == 65 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "43,080";
+      document.getElementById("premium").value = "43080";
     } else if (a == 66 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "46,960";
+      document.getElementById("premium").value = "46960";
     } else if (a == 67 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "50,920";
+      document.getElementById("premium").value = "50920";
     } else if (a == 68 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "55,260";
+      document.getElementById("premium").value = "55260";
     } else if (a == 69 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "59,860";
+      document.getElementById("premium").value = "59860";
     } else if (a == 70 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "65,060";
+      document.getElementById("premium").value = "65060";
     } else if (a == 71 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "70,980";
+      document.getElementById("premium").value = "70980";
     } else if (a == 72 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "77,340";
+      document.getElementById("premium").value = "77340";
     } else if (a == 73 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "83,580";
+      document.getElementById("premium").value = "83580";
     } else if (a == 74 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "90,580";
+      document.getElementById("premium").value = "90580";
     } else if (a == 75 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "99,300";
+      document.getElementById("premium").value = "99300";
     } else if (a == 76 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "110,000";
+      document.getElementById("premium").value = "110000";
     } else if (a == 77 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "122,960";
+      document.getElementById("premium").value = "122960";
     } else if (a == 78 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "138,340";
+      document.getElementById("premium").value = "138340";
     } else if (a == 79 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "155,800";
+      document.getElementById("premium").value = "155800";
     } else if (a == 80 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "173,440";
+      document.getElementById("premium").value = "173440";
     } else if (a == 81 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "193,600";
+      document.getElementById("premium").value = "193600";
     } else if (a == 82 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "216,140";
+      document.getElementById("premium").value = "216140";
     } else if (a == 83 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "241,300";
+      document.getElementById("premium").value = "241300";
     } else if (a == 84 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "269,440";
+      document.getElementById("premium").value = "269440";
     } else if (a == 85 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "300,120";
+      document.getElementById("premium").value = "300120";
     } else if (a == 86 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "332,240";
+      document.getElementById("premium").value = "332240";
     } else if (a == 87 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "366,860";
+      document.getElementById("premium").value = "366860";
     } else if (a == 88 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "404,740";
+      document.getElementById("premium").value = "404740";
     } else if (a == 89 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "446,340";
+      document.getElementById("premium").value = "446340";
     } else if (a == 90 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "492,640";
+      document.getElementById("premium").value = "492640";
     } else if (a == 91 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "542,840";
+      document.getElementById("premium").value = "542840";
     } else if (a == 92 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "599,160";
+      document.getElementById("premium").value = "599160";
     } else if (a == 93 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "659,940";
+      document.getElementById("premium").value = "659940";
     } else if (a == 94 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "719,020";
+      document.getElementById("premium").value = "719020";
     } else if (a == 95 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "770,100";
+      document.getElementById("premium").value = "770100";
     } else if (a == 96 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "825,780";
+      document.getElementById("premium").value = "825780";
     } else if (a == 97 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "883,160";
+      document.getElementById("premium").value = "883160";
     } else if (a == 98 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "942,480";
+      document.getElementById("premium").value = "942480";
     } else if (a == 99 && b == 1 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "1,003,900";
+      document.getElementById("premium").value = "1003900";
     } else if (a == 50 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "9,380";
+      document.getElementById("premium").value = "9380";
     } else if (a == 51 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "9,960";
+      document.getElementById("premium").value = "9960";
     } else if (a == 52 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "10,560";
+      document.getElementById("premium").value = "10560";
     } else if (a == 53 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "11,160";
+      document.getElementById("premium").value = "11160";
     } else if (a == 54 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "11,720";
+      document.getElementById("premium").value = "11720";
     } else if (a == 55 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "12,240";
+      document.getElementById("premium").value = "12240";
     } else if (a == 56 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "12,680";
+      document.getElementById("premium").value = "12680";
     } else if (a == 57 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "13,140";
+      document.getElementById("premium").value = "13140";
     } else if (a == 58 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "13,640";
+      document.getElementById("premium").value = "13640";
     } else if (a == 59 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "14,400";
+      document.getElementById("premium").value = "14400";
     } else if (a == 60 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "15,300";
+      document.getElementById("premium").value = "15300";
     } else if (a == 61 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "16,360";
+      document.getElementById("premium").value = "16360";
     } else if (a == 62 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "17,400";
+      document.getElementById("premium").value = "17400";
     } else if (a == 63 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "18,460";
+      document.getElementById("premium").value = "18460";
     } else if (a == 64 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "19,600";
+      document.getElementById("premium").value = "19600";
     } else if (a == 65 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "20,980";
+      document.getElementById("premium").value = "20980";
     } else if (a == 66 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "22,540";
+      document.getElementById("premium").value = "22540";
     } else if (a == 67 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "24,160";
+      document.getElementById("premium").value = "24160";
     } else if (a == 68 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "26,000";
+      document.getElementById("premium").value = "26000";
     } else if (a == 69 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "28,100";
+      document.getElementById("premium").value = "28100";
     } else if (a == 70 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "30,580";
+      document.getElementById("premium").value = "30580";
     } else if (a == 71 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "33,420";
+      document.getElementById("premium").value = "33420";
     } else if (a == 72 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "36,620";
+      document.getElementById("premium").value = "36620";
     } else if (a == 73 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "39,860";
+      document.getElementById("premium").value = "39860";
     } else if (a == 74 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "43,520";
+      document.getElementById("premium").value = "43520";
     } else if (a == 75 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "48,100";
+      document.getElementById("premium").value = "48100";
     } else if (a == 76 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "53,880";
+      document.getElementById("premium").value = "53880";
     } else if (a == 77 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "60,900";
+      document.getElementById("premium").value = "60900";
     } else if (a == 78 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "69,120";
+      document.getElementById("premium").value = "69120";
     } else if (a == 79 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "78,640";
+      document.getElementById("premium").value = "78640";
     } else if (a == 80 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "88,440";
+      document.getElementById("premium").value = "88440";
     } else if (a == 81 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "99,720";
+      document.getElementById("premium").value = "99720";
     } else if (a == 82 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "113,060";
+      document.getElementById("premium").value = "113060";
     } else if (a == 83 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "128,480";
+      document.getElementById("premium").value = "128480";
     } else if (a == 84 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "145,740";
+      document.getElementById("premium").value = "145740";
     } else if (a == 85 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "164,960";
+      document.getElementById("premium").value = "164960";
     } else if (a == 86 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "186,800";
+      document.getElementById("premium").value = "186800";
     } else if (a == 87 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "211,860";
+      document.getElementById("premium").value = "211860";
     } else if (a == 88 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "240,900";
+      document.getElementById("premium").value = "240900";
     } else if (a == 89 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "273,300";
+      document.getElementById("premium").value = "273300";
     } else if (a == 90 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "309,420";
+      document.getElementById("premium").value = "309420";
     } else if (a == 91 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "349,920";
+      document.getElementById("premium").value = "349920";
     } else if (a == 92 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "397,240";
+      document.getElementById("premium").value = "397240";
     } else if (a == 93 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "449,860";
+      document.getElementById("premium").value = "449860";
     } else if (a == 94 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "505,880";
+      document.getElementById("premium").value = "505880";
     } else if (a == 95 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "566,340";
+      document.getElementById("premium").value = "566340";
     } else if (a == 96 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "621,720";
+      document.getElementById("premium").value = "621720";
     } else if (a == 97 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "678,020";
+      document.getElementById("premium").value = "678020";
     } else if (a == 98 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "735,240";
+      document.getElementById("premium").value = "735240";
     } else if (a == 99 && b == 2 && c == 2 && d == 2) {
-      document.getElementById("premium").value = "793,500";
+      document.getElementById("premium").value = "793500";
     } else if (a == 50 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "20,430";
+      document.getElementById("premium").value = "20430";
     } else if (a == 51 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "21,810";
+      document.getElementById("premium").value = "21810";
     } else if (a == 52 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "23,400";
+      document.getElementById("premium").value = "23400";
     } else if (a == 53 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "25,020";
+      document.getElementById("premium").value = "25020";
     } else if (a == 54 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "26,910";
+      document.getElementById("premium").value = "26910";
     } else if (a == 55 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "29,040";
+      document.getElementById("premium").value = "29040";
     } else if (a == 56 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "31,260";
+      document.getElementById("premium").value = "31260";
     } else if (a == 57 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "33,450";
+      document.getElementById("premium").value = "33450";
     } else if (a == 58 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "35,670";
+      document.getElementById("premium").value = "35670";
     } else if (a == 59 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "38,250";
+      document.getElementById("premium").value = "38250";
     } else if (a == 60 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "41,340";
+      document.getElementById("premium").value = "41340";
     } else if (a == 61 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "45,420";
+      document.getElementById("premium").value = "45420";
     } else if (a == 62 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "49,950";
+      document.getElementById("premium").value = "49950";
     } else if (a == 63 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "54,570";
+      document.getElementById("premium").value = "54570";
     } else if (a == 64 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "59,160";
+      document.getElementById("premium").value = "59160";
     } else if (a == 65 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "64,620";
+      document.getElementById("premium").value = "64620";
     } else if (a == 66 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "70,440";
+      document.getElementById("premium").value = "70440";
     } else if (a == 67 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "76,380";
+      document.getElementById("premium").value = "76380";
     } else if (a == 68 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "82,890";
+      document.getElementById("premium").value = "82890";
     } else if (a == 69 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "89,790";
+      document.getElementById("premium").value = "89790";
     } else if (a == 70 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "97,590";
+      document.getElementById("premium").value = "97590";
     } else if (a == 71 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "106,470";
+      document.getElementById("premium").value = "106470";
     } else if (a == 72 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "116,010";
+      document.getElementById("premium").value = "116010";
     } else if (a == 73 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "125,370";
+      document.getElementById("premium").value = "125370";
     } else if (a == 74 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "135,870";
+      document.getElementById("premium").value = "135870";
     } else if (a == 75 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "148,950";
+      document.getElementById("premium").value = "148950";
     } else if (a == 76 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "165,000";
+      document.getElementById("premium").value = "165000";
     } else if (a == 77 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "184,440";
+      document.getElementById("premium").value = "184440";
     } else if (a == 78 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "207,510";
+      document.getElementById("premium").value = "207510";
     } else if (a == 79 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "233,700";
+      document.getElementById("premium").value = "233700";
     } else if (a == 80 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "260,160";
+      document.getElementById("premium").value = "260160";
     } else if (a == 81 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "290,400";
+      document.getElementById("premium").value = "290400";
     } else if (a == 82 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "324,210";
+      document.getElementById("premium").value = "324210";
     } else if (a == 83 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "361,950";
+      document.getElementById("premium").value = "361950";
     } else if (a == 84 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "404,160";
+      document.getElementById("premium").value = "404160";
     } else if (a == 85 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "450,180";
+      document.getElementById("premium").value = "450180";
     } else if (a == 86 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "498,360";
+      document.getElementById("premium").value = "498360";
     } else if (a == 87 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "550,290";
+      document.getElementById("premium").value = "550290";
     } else if (a == 88 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "607,110";
+      document.getElementById("premium").value = "607110";
     } else if (a == 89 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "669,510";
+      document.getElementById("premium").value = "669510";
     } else if (a == 90 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "738,960";
+      document.getElementById("premium").value = "738960";
     } else if (a == 91 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "814,260";
+      document.getElementById("premium").value = "814260";
     } else if (a == 92 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "898,740";
+      document.getElementById("premium").value = "898740";
     } else if (a == 93 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "989,910";
+      document.getElementById("premium").value = "989910";
     } else if (a == 94 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "1,078,530";
+      document.getElementById("premium").value = "1078530";
     } else if (a == 95 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "1,155,150";
+      document.getElementById("premium").value = "1155150";
     } else if (a == 96 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "1,238,670";
+      document.getElementById("premium").value = "1238670";
     } else if (a == 97 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "1,324,740";
+      document.getElementById("premium").value = "1324740";
     } else if (a == 98 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "1,413,270";
+      document.getElementById("premium").value = "1413270";
     } else if (a == 99 && b == 1 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "1,505,850";
+      document.getElementById("premium").value = "1505850";
     } else if (a == 50 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "14,070";
+      document.getElementById("premium").value = "14070";
     } else if (a == 51 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "14,940";
+      document.getElementById("premium").value = "14940";
     } else if (a == 52 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "15,840";
+      document.getElementById("premium").value = "15840";
     } else if (a == 53 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "16,740";
+      document.getElementById("premium").value = "16740";
     } else if (a == 54 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "17,580";
+      document.getElementById("premium").value = "17580";
     } else if (a == 55 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "18,360";
+      document.getElementById("premium").value = "18360";
     } else if (a == 56 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "19,020";
+      document.getElementById("premium").value = "19020";
     } else if (a == 57 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "19,710";
+      document.getElementById("premium").value = "19710";
     } else if (a == 58 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "20,460";
+      document.getElementById("premium").value = "20460";
     } else if (a == 59 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "21,600";
+      document.getElementById("premium").value = "21600";
     } else if (a == 60 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "22,950";
+      document.getElementById("premium").value = "22950";
     } else if (a == 61 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "24,540";
+      document.getElementById("premium").value = "24540";
     } else if (a == 62 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "26,100";
+      document.getElementById("premium").value = "26100";
     } else if (a == 63 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "27,690";
+      document.getElementById("premium").value = "27690";
     } else if (a == 64 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "29,400";
+      document.getElementById("premium").value = "29400";
     } else if (a == 65 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "31,470";
+      document.getElementById("premium").value = "31470";
     } else if (a == 66 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "33,810";
+      document.getElementById("premium").value = "33810";
     } else if (a == 67 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "36,240";
+      document.getElementById("premium").value = "36240";
     } else if (a == 68 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "39,000";
+      document.getElementById("premium").value = "39000";
     } else if (a == 69 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "42,150";
+      document.getElementById("premium").value = "42150";
     } else if (a == 70 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "45,870";
+      document.getElementById("premium").value = "45870";
     } else if (a == 71 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "50,130";
+      document.getElementById("premium").value = "50130";
     } else if (a == 72 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "54,930";
+      document.getElementById("premium").value = "54930";
     } else if (a == 73 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "59,790";
+      document.getElementById("premium").value = "59790";
     } else if (a == 74 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "65,280";
+      document.getElementById("premium").value = "65280";
     } else if (a == 75 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "72,150";
+      document.getElementById("premium").value = "72150";
     } else if (a == 76 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "80,820";
+      document.getElementById("premium").value = "80820";
     } else if (a == 77 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "91,350";
+      document.getElementById("premium").value = "91350";
     } else if (a == 78 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "103,680";
+      document.getElementById("premium").value = "103680";
     } else if (a == 79 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "117,960";
+      document.getElementById("premium").value = "117960";
     } else if (a == 80 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "132,660";
+      document.getElementById("premium").value = "132660";
     } else if (a == 81 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "149,580";
+      document.getElementById("premium").value = "149580";
     } else if (a == 82 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "169,590";
+      document.getElementById("premium").value = "169590";
     } else if (a == 83 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "192,720";
+      document.getElementById("premium").value = "192720";
     } else if (a == 84 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "218,610";
+      document.getElementById("premium").value = "218610";
     } else if (a == 85 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "247,440";
+      document.getElementById("premium").value = "247440";
     } else if (a == 86 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "280,200";
+      document.getElementById("premium").value = "280200";
     } else if (a == 87 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "317,790";
+      document.getElementById("premium").value = "317790";
     } else if (a == 88 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "361,350";
+      document.getElementById("premium").value = "361350";
     } else if (a == 89 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "409,950";
+      document.getElementById("premium").value = "409950";
     } else if (a == 90 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "464,130";
+      document.getElementById("premium").value = "464130";
     } else if (a == 91 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "524,880";
+      document.getElementById("premium").value = "524880";
     } else if (a == 92 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "595,860";
+      document.getElementById("premium").value = "595860";
     } else if (a == 93 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "674,790";
+      document.getElementById("premium").value = "674790";
     } else if (a == 94 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "758,820";
+      document.getElementById("premium").value = "758820";
     } else if (a == 95 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "849,510";
+      document.getElementById("premium").value = "849510";
     } else if (a == 96 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "932,580";
+      document.getElementById("premium").value = "932580";
     } else if (a == 97 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "1,017,030";
+      document.getElementById("premium").value = "1017030";
     } else if (a == 98 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "1,102,860";
+      document.getElementById("premium").value = "1102860";
     } else if (a == 99 && b == 2 && c == 3 && d == 2) {
-      document.getElementById("premium").value = "1,190,250";
+      document.getElementById("premium").value = "1190250";
     } else if (a == 50 && b == 1 && c == 0 && d == 1) {
       document.getElementById("premium").value = "290";
     } else if (a == 51 && b == 1 && c == 0 && d == 1) {
@@ -1245,173 +1247,173 @@
     } else if (a == 65 && b == 1 && c == 0 && d == 1) {
       document.getElementById("premium").value = "925";
     } else if (a == 66 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,010";
+      document.getElementById("premium").value = "1010";
     } else if (a == 67 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,095";
+      document.getElementById("premium").value = "1095";
     } else if (a == 68 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,185";
+      document.getElementById("premium").value = "1185";
     } else if (a == 69 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,285";
+      document.getElementById("premium").value = "1285";
     } else if (a == 70 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,400";
+      document.getElementById("premium").value = "1400";
     } else if (a == 71 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,530";
+      document.getElementById("premium").value = "1530";
     } else if (a == 72 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,665";
+      document.getElementById("premium").value = "1665";
     } else if (a == 73 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,805";
+      document.getElementById("premium").value = "1805";
     } else if (a == 74 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,955";
+      document.getElementById("premium").value = "1955";
     } else if (a == 75 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "2,150";
+      document.getElementById("premium").value = "2150";
     } else if (a == 76 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "2,385";
+      document.getElementById("premium").value = "2385";
     } else if (a == 77 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "2,670";
+      document.getElementById("premium").value = "2670";
     } else if (a == 78 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "3,010";
+      document.getElementById("premium").value = "3010";
     } else if (a == 79 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "3,400";
+      document.getElementById("premium").value = "3400";
     } else if (a == 80 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "3,795";
+      document.getElementById("premium").value = "3795";
     } else if (a == 81 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "4,255";
+      document.getElementById("premium").value = "4255";
     } else if (a == 82 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "4,765";
+      document.getElementById("premium").value = "4765";
     } else if (a == 83 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "5,345";
+      document.getElementById("premium").value = "5345";
     } else if (a == 84 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "6,000";
+      document.getElementById("premium").value = "6000";
     } else if (a == 85 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "6,720";
+      document.getElementById("premium").value = "6720";
     } else if (a == 86 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "7,485";
+      document.getElementById("premium").value = "7485";
     } else if (a == 87 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "8,325";
+      document.getElementById("premium").value = "8325";
     } else if (a == 88 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "9,250";
+      document.getElementById("premium").value = "9250";
     } else if (a == 89 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "10,290";
+      document.getElementById("premium").value = "10290";
     } else if (a == 90 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "11,465";
+      document.getElementById("premium").value = "11465";
     } else if (a == 91 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "12,765";
+      document.getElementById("premium").value = "12765";
     } else if (a == 92 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "14,260";
+      document.getElementById("premium").value = "14260";
     } else if (a == 93 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "15,915";
+      document.getElementById("premium").value = "15915";
     } else if (a == 94 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "17,575";
+      document.getElementById("premium").value = "17575";
     } else if (a == 95 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "19,050";
+      document.getElementById("premium").value = "19050";
     } else if (a == 96 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "20,705";
+      document.getElementById("premium").value = "20705";
     } else if (a == 97 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "22,460";
+      document.getElementById("premium").value = "22460";
     } else if (a == 98 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "24,335";
+      document.getElementById("premium").value = "24335";
     } else if (a == 99 && b == 1 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "26,345";
+      document.getElementById("premium").value = "26345";
     } else if (a == 50 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "3,405";
+      document.getElementById("premium").value = "3405";
     } else if (a == 51 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "3,635";
+      document.getElementById("premium").value = "3635";
     } else if (a == 52 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "3,900";
+      document.getElementById("premium").value = "3900";
     } else if (a == 53 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "4,170";
+      document.getElementById("premium").value = "4170";
     } else if (a == 54 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "4,485";
+      document.getElementById("premium").value = "4485";
     } else if (a == 55 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "4,840";
+      document.getElementById("premium").value = "4840";
     } else if (a == 56 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "5,210";
+      document.getElementById("premium").value = "5210";
     } else if (a == 57 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "5,575";
+      document.getElementById("premium").value = "5575";
     } else if (a == 58 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "5,945";
+      document.getElementById("premium").value = "5945";
     } else if (a == 59 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "6,375";
+      document.getElementById("premium").value = "6375";
     } else if (a == 60 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "6,890";
+      document.getElementById("premium").value = "6890";
     } else if (a == 61 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "7,570";
+      document.getElementById("premium").value = "7570";
     } else if (a == 62 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "8,325";
+      document.getElementById("premium").value = "8325";
     } else if (a == 63 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "9,095";
+      document.getElementById("premium").value = "9095";
     } else if (a == 64 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "9,860";
+      document.getElementById("premium").value = "9860";
     } else if (a == 65 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "10,770";
+      document.getElementById("premium").value = "10770";
     } else if (a == 66 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "11,740";
+      document.getElementById("premium").value = "11740";
     } else if (a == 67 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "12,730";
+      document.getElementById("premium").value = "12730";
     } else if (a == 68 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "13,815";
+      document.getElementById("premium").value = "13815";
     } else if (a == 69 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "14,965";
+      document.getElementById("premium").value = "14965";
     } else if (a == 70 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "16,265";
+      document.getElementById("premium").value = "16265";
     } else if (a == 71 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "17,745";
+      document.getElementById("premium").value = "17745";
     } else if (a == 72 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "19,335";
+      document.getElementById("premium").value = "19335";
     } else if (a == 73 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "20,895";
+      document.getElementById("premium").value = "20895";
     } else if (a == 74 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "22,645";
+      document.getElementById("premium").value = "22645";
     } else if (a == 75 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "24,825";
+      document.getElementById("premium").value = "24825";
     } else if (a == 76 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "27,500";
+      document.getElementById("premium").value = "27500";
     } else if (a == 77 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "30,740";
+      document.getElementById("premium").value = "30740";
     } else if (a == 78 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "34,585";
+      document.getElementById("premium").value = "34585";
     } else if (a == 79 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "38,950";
+      document.getElementById("premium").value = "38950";
     } else if (a == 80 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "43,360";
+      document.getElementById("premium").value = "43360";
     } else if (a == 81 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "48,400";
+      document.getElementById("premium").value = "48400";
     } else if (a == 82 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "54,035";
+      document.getElementById("premium").value = "54035";
     } else if (a == 83 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "60,325";
+      document.getElementById("premium").value = "60325";
     } else if (a == 84 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "67,360";
+      document.getElementById("premium").value = "67360";
     } else if (a == 85 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "75,030";
+      document.getElementById("premium").value = "75030";
     } else if (a == 86 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "83,060";
+      document.getElementById("premium").value = "83060";
     } else if (a == 87 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "91,715";
+      document.getElementById("premium").value = "91715";
     } else if (a == 88 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "101,185";
+      document.getElementById("premium").value = "101185";
     } else if (a == 89 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "111,585";
+      document.getElementById("premium").value = "111585";
     } else if (a == 90 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "123,160";
+      document.getElementById("premium").value = "123160";
     } else if (a == 91 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "135,710";
+      document.getElementById("premium").value = "135710";
     } else if (a == 92 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "149,790";
+      document.getElementById("premium").value = "149790";
     } else if (a == 93 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "164,985";
+      document.getElementById("premium").value = "164985";
     } else if (a == 94 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "179,755";
+      document.getElementById("premium").value = "179755";
     } else if (a == 95 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "192,525";
+      document.getElementById("premium").value = "192525";
     } else if (a == 96 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "206,445";
+      document.getElementById("premium").value = "206445";
     } else if (a == 97 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "220,790";
+      document.getElementById("premium").value = "220790";
     } else if (a == 98 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "235,620";
+      document.getElementById("premium").value = "235620";
     } else if (a == 99 && b == 1 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "250,975";
+      document.getElementById("premium").value = "250975";
     } else if (a == 50 && b == 2 && c == 0 && d == 1) {
       document.getElementById("premium").value = "200";
     } else if (a == 51 && b == 2 && c == 0 && d == 1) {
@@ -1463,155 +1465,155 @@
     } else if (a == 74 && b == 2 && c == 0 && d == 1) {
       document.getElementById("premium").value = "935";
     } else if (a == 75 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,030";
+      document.getElementById("premium").value = "1030";
     } else if (a == 76 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,155";
+      document.getElementById("premium").value = "1155";
     } else if (a == 77 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,310";
+      document.getElementById("premium").value = "1310";
     } else if (a == 78 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,490";
+      document.getElementById("premium").value = "1490";
     } else if (a == 79 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,695";
+      document.getElementById("premium").value = "1695";
     } else if (a == 80 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "1,910";
+      document.getElementById("premium").value = "1910";
     } else if (a == 81 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "2,160";
+      document.getElementById("premium").value = "2160";
     } else if (a == 82 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "2,450";
+      document.getElementById("premium").value = "2450";
     } else if (a == 83 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "2,795";
+      document.getElementById("premium").value = "2795";
     } else if (a == 84 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "3,180";
+      document.getElementById("premium").value = "3180";
     } else if (a == 85 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "3,610";
+      document.getElementById("premium").value = "3610";
     } else if (a == 86 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "4,105";
+      document.getElementById("premium").value = "4105";
     } else if (a == 87 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "4,675";
+      document.getElementById("premium").value = "4675";
     } else if (a == 88 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "5,350";
+      document.getElementById("premium").value = "5350";
     } else if (a == 89 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "6,105";
+      document.getElementById("premium").value = "6105";
     } else if (a == 90 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "6,960";
+      document.getElementById("premium").value = "6960";
     } else if (a == 91 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "7,935";
+      document.getElementById("premium").value = "7935";
     } else if (a == 92 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "9,095";
+      document.getElementById("premium").value = "9095";
     } else if (a == 93 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "10,410";
+      document.getElementById("premium").value = "10410";
     } else if (a == 94 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "11,845";
+      document.getElementById("premium").value = "11845";
     } else if (a == 95 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "13,435";
+      document.getElementById("premium").value = "13435";
     } else if (a == 96 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "14,935";
+      document.getElementById("premium").value = "14935";
     } else if (a == 97 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "16,500";
+      document.getElementById("premium").value = "16500";
     } else if (a == 98 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "18,140";
+      document.getElementById("premium").value = "18140";
     } else if (a == 99 && b == 2 && c == 0 && d == 1) {
-      document.getElementById("premium").value = "19,855";
+      document.getElementById("premium").value = "19855";
     } else if (a == 50 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "2,345";
+      document.getElementById("premium").value = "2345";
     } else if (a == 51 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "2,490";
+      document.getElementById("premium").value = "2490";
     } else if (a == 52 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "2,640";
+      document.getElementById("premium").value = "2640";
     } else if (a == 53 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "2,790";
+      document.getElementById("premium").value = "2790";
     } else if (a == 54 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "2,930";
+      document.getElementById("premium").value = "2930";
     } else if (a == 55 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "3,060";
+      document.getElementById("premium").value = "3060";
     } else if (a == 56 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "3,170";
+      document.getElementById("premium").value = "3170";
     } else if (a == 57 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "3,285";
+      document.getElementById("premium").value = "3285";
     } else if (a == 58 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "3,410";
+      document.getElementById("premium").value = "3410";
     } else if (a == 59 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "3,600";
+      document.getElementById("premium").value = "3600";
     } else if (a == 60 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "3,825";
+      document.getElementById("premium").value = "3825";
     } else if (a == 61 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "4,090";
+      document.getElementById("premium").value = "4090";
     } else if (a == 62 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "4,350";
+      document.getElementById("premium").value = "4350";
     } else if (a == 63 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "4,615";
+      document.getElementById("premium").value = "4615";
     } else if (a == 64 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "4,900";
+      document.getElementById("premium").value = "4900";
     } else if (a == 65 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "5,245";
+      document.getElementById("premium").value = "5245";
     } else if (a == 66 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "5,635";
+      document.getElementById("premium").value = "5635";
     } else if (a == 67 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "6,040";
+      document.getElementById("premium").value = "6040";
     } else if (a == 68 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "6,500";
+      document.getElementById("premium").value = "6500";
     } else if (a == 69 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "7,025";
+      document.getElementById("premium").value = "7025";
     } else if (a == 70 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "7,645";
+      document.getElementById("premium").value = "7645";
     } else if (a == 71 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "8,355";
+      document.getElementById("premium").value = "8355";
     } else if (a == 72 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "9,155";
+      document.getElementById("premium").value = "9155";
     } else if (a == 73 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "9,965";
+      document.getElementById("premium").value = "9965";
     } else if (a == 74 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "10,880";
+      document.getElementById("premium").value = "10880";
     } else if (a == 75 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "12,025";
+      document.getElementById("premium").value = "12025";
     } else if (a == 76 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "13,470";
+      document.getElementById("premium").value = "13470";
     } else if (a == 77 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "15,225";
+      document.getElementById("premium").value = "15225";
     } else if (a == 78 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "17,280";
+      document.getElementById("premium").value = "17280";
     } else if (a == 79 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "19,660";
+      document.getElementById("premium").value = "19660";
     } else if (a == 80 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "22,110";
+      document.getElementById("premium").value = "22110";
     } else if (a == 81 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "24,930";
+      document.getElementById("premium").value = "24930";
     } else if (a == 82 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "28,265";
+      document.getElementById("premium").value = "28265";
     } else if (a == 83 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "32,120";
+      document.getElementById("premium").value = "32120";
     } else if (a == 84 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "36,435";
+      document.getElementById("premium").value = "36435";
     } else if (a == 85 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "41,240";
+      document.getElementById("premium").value = "41240";
     } else if (a == 86 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "46,700";
+      document.getElementById("premium").value = "46700";
     } else if (a == 87 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "52,965";
+      document.getElementById("premium").value = "52965";
     } else if (a == 88 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "60,225";
+      document.getElementById("premium").value = "60225";
     } else if (a == 89 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "68,325";
+      document.getElementById("premium").value = "68325";
     } else if (a == 90 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "77,355";
+      document.getElementById("premium").value = "77355";
     } else if (a == 91 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "87,480";
+      document.getElementById("premium").value = "87480";
     } else if (a == 92 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "99,310";
+      document.getElementById("premium").value = "99310";
     } else if (a == 93 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "112,465";
+      document.getElementById("premium").value = "112465";
     } else if (a == 94 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "126,470";
+      document.getElementById("premium").value = "126470";
     } else if (a == 95 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "141,585";
+      document.getElementById("premium").value = "141585";
     } else if (a == 96 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "155,430";
+      document.getElementById("premium").value = "155430";
     } else if (a == 97 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "169,505";
+      document.getElementById("premium").value = "169505";
     } else if (a == 98 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "183,810";
+      document.getElementById("premium").value = "183810";
     } else if (a == 99 && b == 2 && c == 0 && d == 2) {
-      document.getElementById("premium").value = "198,375";
+      document.getElementById("premium").value = "198375";
 
     } else {
       document.getElementById("premium").value = "引受不可";
