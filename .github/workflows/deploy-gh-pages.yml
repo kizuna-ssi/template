@@ -35,11 +35,11 @@ jobs:
       - name: Build
         run: npm ci && npm run build
         env:
-          PUBLIC_URL: /template
+          PUBLIC_URL: './template'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: './build'
+          path: './template'
 
   deploy:
     environment:
