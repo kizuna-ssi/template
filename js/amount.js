@@ -570,127 +570,127 @@
       document.getElementById("product2").innerText = "2,941,170円";
     } else if (a == 59 && b == 1 && c == 3) {
       document.getElementById("amount").value = "2752290";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "2,752,290円";
     } else if (a == 60 && b == 1 && c == 3) {
       document.getElementById("amount").value = "2542380";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "2,542,380円";
     } else if (a == 61 && b == 1 && c == 3) {
       document.getElementById("amount").value = "2307690";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "2,307,690円";
     } else if (a == 62 && b == 1 && c == 3) {
       document.getElementById("amount").value = "2097900";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "2,097,900円";
     } else if (a == 63 && b == 1 && c == 3) {
       document.getElementById("amount").value = "1923090";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "1,923,090円";
     } else if (a == 64 && b == 1 && c == 3) {
       document.getElementById("amount").value = "1775160";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "1,775,160円";
     } else if (a == 65 && b == 1 && c == 3) {
       document.getElementById("amount").value = "1621620";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "1,621,620円";
     } else if (a == 66 && b == 1 && c == 3) {
       document.getElementById("amount").value = "1485150";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "1,485,150円";
     } else if (a == 67 && b == 1 && c == 3) {
       document.getElementById("amount").value = "1369860";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "1,369,860円";
     } else if (a == 68 && b == 1 && c == 3) {
       document.getElementById("amount").value = "1265820";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "1,265,820円";
     } else if (a == 69 && b == 1 && c == 3) {
       document.getElementById("amount").value = "1167330";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "1,167,330円";
     } else if (a == 70 && b == 1 && c == 3) {
       document.getElementById("amount").value = "1071420";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "1,071,420円";
     } else if (a == 71 && b == 1 && c == 3) {
       document.getElementById("amount").value = "980400";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "980,400円";
     } else if (a == 72 && b == 1 && c == 3) {
       document.getElementById("amount").value = "900900";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "900,900円";
     } else if (a == 73 && b == 1 && c == 3) {
       document.getElementById("amount").value = "831030";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "831,030円";
     } else if (a == 74 && b == 1 && c == 3) {
       document.getElementById("amount").value = "767250";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "767,250円";
     } else if (a == 75 && b == 1 && c == 3) {
       document.getElementById("amount").value = "697680";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "697,680円";
     } else if (a == 76 && b == 1 && c == 3) {
       document.getElementById("amount").value = "628920";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "628,920円";
     } else if (a == 77 && b == 1 && c == 3) {
       document.getElementById("amount").value = "561810";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "561,810円";
     } else if (a == 78 && b == 1 && c == 3) {
       document.getElementById("amount").value = "498330";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "498,330円";
     } else if (a == 79 && b == 1 && c == 3) {
       document.getElementById("amount").value = "441180";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "441,180円";
     } else if (a == 80 && b == 1 && c == 3) {
       document.getElementById("amount").value = "395250";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "395,250円";
     } else if (a == 81 && b == 1 && c == 3) {
       document.getElementById("amount").value = "352530";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "352,530円";
     } else if (a == 82 && b == 1 && c == 3) {
       document.getElementById("amount").value = "314790";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "314,790円";
     } else if (a == 83 && b == 1 && c == 3) {
       document.getElementById("amount").value = "280650";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "280,650円";
     } else if (a == 84 && b == 1 && c == 3) {
       document.getElementById("amount").value = "249990";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "249,990円";
     } else if (a == 85 && b == 1 && c == 3) {
       document.getElementById("amount").value = "223200";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "223,200円";
     } else if (a == 86 && b == 1 && c == 3) {
       document.getElementById("amount").value = "200400";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "200,400円";
     } else if (a == 87 && b == 1 && c == 3) {
       document.getElementById("amount").value = "180180";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "180,180円";
     } else if (a == 88 && b == 1 && c == 3) {
       document.getElementById("amount").value = "162150";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "162,150円";
     } else if (a == 89 && b == 1 && c == 3) {
       document.getElementById("amount").value = "145770";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "145,770円";
     } else if (a == 90 && b == 1 && c == 3) {
       document.getElementById("amount").value = "130830";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "130,830円";
     } else if (a == 91 && b == 1 && c == 3) {
       document.getElementById("amount").value = "117510";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "117,510円";
     } else if (a == 92 && b == 1 && c == 3) {
       document.getElementById("amount").value = "105180";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "105,180円";
     } else if (a == 93 && b == 1 && c == 3) {
       document.getElementById("amount").value = "94260";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "94,260円";
     } else if (a == 94 && b == 1 && c == 3) {
       document.getElementById("amount").value = "85350";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "85,350円";
     } else if (a == 95 && b == 1 && c == 3) {
       document.getElementById("amount").value = "78750";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "78,750円";
     } else if (a == 96 && b == 1 && c == 3) {
       document.getElementById("amount").value = "72450";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "72,450円";
     } else if (a == 97 && b == 1 && c == 3) {
       document.getElementById("amount").value = "66780";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "66,780円";
     } else if (a == 98 && b == 1 && c == 3) {
       document.getElementById("amount").value = "61650";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "61,650円";
     } else if (a == 99 && b == 1 && c == 3) {
       document.getElementById("amount").value = "56940";
-      document.getElementById("product2").innerText = "1,724,140円";
+      document.getElementById("product2").innerText = "56,9400円";
     } else if (a == 67 && b == 2 && c == 3) {
       document.getElementById("amount").value = "2912610";
       document.getElementById("product2").innerText = "1,724,140円";
