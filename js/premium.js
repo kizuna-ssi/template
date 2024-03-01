@@ -88,7 +88,7 @@
       document.getElementById("product").innerText = "4,770円/月";
     } else if (a == 77 && b == 1 && c == 1 && d == 1) {
       document.getElementById("premium").value = "5340";
-      document.getElementById("product").innerText = "5,370円/月";
+      document.getElementById("product").innerText = "5,340円/月";
     } else if (a == 78 && b == 1 && c == 1 && d == 1) {
       document.getElementById("premium").value = "6020";
       document.getElementById("product").innerText = "6,020円/月";
