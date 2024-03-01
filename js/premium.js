@@ -2404,7 +2404,7 @@
       document.getElementById("product").innerText = "183,810円/年";
     } else if (a == 99 && b == 2 && c == 0 && d == 2) {
       document.getElementById("premium").value = "198375";
-      document.getElementById("product").innerText = "198,375<span style="font-size: smaller;">円/年</span>";
+      document.getElementById("product").innerText = "198,375円/年";
 
     } else {
       document.getElementById("premium").value = "引受不可";
