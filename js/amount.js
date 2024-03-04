@@ -312,7 +312,7 @@
       document.getElementById("product2").innerText = "2,816,900円";
     } else if (a == 54 && b == 1 && c == 2) {
       document.getElementById("amount").value = "2597400";
-      document.getElementById("product2").innerText = "2,567,400円";
+      document.getElementById("product2").innerText = "2,597,400円";
     } else if (a == 55 && b == 1 && c == 2) {
       document.getElementById("amount").value = "2409640";
       document.getElementById("product2").innerText = "2,409,640円";
@@ -1305,7 +1305,7 @@
       document.getElementById("product2").innerText = "1,793,800円";
     } else if (a == 58 && b == 1 && c == 6) {
       document.getElementById("amount").value = "1682000";
-      document.getElementById("product2").innerText = "1,68,200円";
+      document.getElementById("product2").innerText = "1,682,000円";
     } else if (a == 59 && b == 1 && c == 6) {
       document.getElementById("amount").value = "1568600";
       document.getElementById("product2").innerText = "1,568,600円";
