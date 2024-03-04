@@ -209,27 +209,27 @@
   h3 {
    font-size: 1.5em;
    font-weight: bold;
-   counter-reset: section3;
+   counter-reset: section4;
    margin: 0 0 1rem 0.5rem;
    padding-left: 0.5em;
    text-indent: -1.0em;
 }
 
   h4 {
-   counter-reset: section4;
+   counter-reset: section5;
    margin: 0 0 1rem 1rem;
    padding-left: 1.5em;
    text-indent: -1.5em;
 }
 
   h3::before {
-   content: counter(section2) ". ";
-   counter-increment: section2;
+   content: counter(section3) ". ";
+   counter-increment: section3;
 }
 
   h4::before {
-   content: "（" counter(section3) "） ";
-   counter-increment: section3;
+   content: "（" counter(section4) "） ";
+   counter-increment: section4;
 }
 
   h1:after {
