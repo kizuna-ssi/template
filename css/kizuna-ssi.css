@@ -97,20 +97,34 @@
     }
 }
 
-.indent {
+.indent_asterisk {
   padding-left: 0.5em;
   margin-left: 1.0em;
   font-size: 90%
 }
 
-.indent li{
+.indent_asterisk li{
     text-indent: -1.5em;
     list-style: none;
 }
-.indent li:before{
+.indent_asterisk li:before{
     content: "※";
     margin-right: 0.5em;
 }
+
+.indent_number {
+  padding-left: 0.5em;
+  margin-left: 1.0em;
+}
+
+.indent_number li{
+    text-indent: -1.5em;
+    list-style: none;
+}
+.indent_number li:before{
+    margin-right: 0.5em;
+}
+
 
   .order-button {
     display: inline-block;
