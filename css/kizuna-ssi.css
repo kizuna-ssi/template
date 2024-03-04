@@ -200,43 +200,37 @@
    padding: 0.25em 0;
 }
 
-
-h2,h3,h4{
-  font-size: 1rem;
-  font-weight: normal;
-  padding:0;
+  h2 {
+   font-size: 2em;
+   font-weight: bold;
+   padding:0;
 }
 
-h2 {
-  counter-reset: section2;
-  margin: 2rem 0 1rem 0;
-}
-h3 {
-  counter-reset: section3;
-    margin: 0 0 1rem 0.5rem;
-    padding-left: 0.5em;
-    text-indent: -1.0em;
-}
-h4 {
-  counter-reset: section4;
-    margin: 0 0 1rem 1rem;
-    padding-left: 1.5em;
-    text-indent: -1.5em;
+  h3 {
+   font-size: 1.5em;
+   font-weight: bold;
+   counter-reset: section3;
+   margin: 0 0 1rem 0.5rem;
+   padding-left: 0.5em;
+   text-indent: -1.0em;
 }
 
-h2::before {
-  content: "第" counter(section1) "条 ";
-  counter-increment: section1;
-}
-h3::before {
-  content: counter(section2) ". ";
-  counter-increment: section2;
-}
-h4::before {
-  content: "(" counter(section3) ") ";
-  counter-increment: section3;
+  h4 {
+   counter-reset: section4;
+   margin: 0 0 1rem 1rem;
+   padding-left: 1.5em;
+   text-indent: -1.5em;
 }
 
+  h3::before {
+   content: counter(section2) ". ";
+   counter-increment: section2;
+}
+
+  h4::before {
+   content: "（" counter(section3) "） ";
+   counter-increment: section3;
+}
 
   h1:after {
    content: "";
