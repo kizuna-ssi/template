@@ -369,40 +369,42 @@
   rotate: 180deg;
 }
 
-.cta_btn04 {
-  font-weight: bold; /* 文字の太さ */
+.background_btn01 {
+  display: inline-block;
   width: 100%;
   max-width: 350px; /* ボタン幅 */
-  display: inline-block;
-  padding: 1em;
-  transition: 0.3s;
+  position: relative;
+  background: #4D9BC1; /* 背景色 */
+  border: 2px solid #4D9BC1;
+  padding: 1em 2em;
+  font-weight: bold;
+  color: #fff; /* 文字色 */
   text-decoration: none;
-  letter-spacing: 0.1em;
-  color: #fff; /* ボタン文字色 */
-  border-radius: 10px;
-  background: #F38173; /* 背景色 */
-  box-shadow: 0 5px 0 #b84131;
   text-align: center;
+  transition-duration: 0.3s;
 }
 
-.cta_btn04 p {
-  margin: 0;
-}
-
-.cta_btn04 .cta_btn04_copy {
-  font-size: 80%; /* コピー文字サイズ */
-  display: block;
-  padding: 0.3em 0;
-  color: #b84131; /* コピー文字色 */
-  border-radius: 100vh;
-  background: #fff; /* コピー背景色 */
-  margin-bottom: 10px;
+.background_btn01:before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  border: 0;
+  border-top: 2px solid #fff; /* 矢印の色 */
+  border-right: 2px solid #fff; /* 矢印の色 */
+  transform: rotate(45deg);
+  position: absolute;
+  top: 50%;
+  left: 25px;
+  margin-top: -6px;
 }
 
 /* マウスオーバーした際のデザイン */
-.cta_btn04:hover {
-  transform: translate(0, 3px);
-  color: #fff;
-  background: #F38173;
-  box-shadow: 0 2px 0 #b84131;
+.background_btn01:hover {
+  background: #fff; /* 背景色 */
+  color: #4D9BC1; /* 文字色 */
+}
+
+.background_btn01:hover:before {
+  border-top: 2px solid #4D9BC1; /* 矢印の色 */
+  border-right: 2px solid #4D9BC1; /* 矢印の色 */
 }
