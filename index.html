@@ -1,28 +1,77 @@
-<html lang="ja">
-<head>
- <meta charset="UTF-8">
- <meta http-equiv="X-UA-Compatible" content="IE=edge">
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
- <link rel="stylesheet" href="https://kizuna-ssi.github.io/template/css/kizuna-ssi.css">
- <link rel=”icon" type="image/x-icon" href="https://kizuna-ssi.github.io/template/img/favicon.ico">
- <title>きずなの死亡保険</title>
-</head>
+<style>
+/* 既存のCSSスタイルは省略 */
+
+/* リンクのスタイル改善 */
+a {
+  color: #0D955A; /* リンクの色を変更 */
+  text-decoration: none;
+  position: relative;
+  transition: color 0.3s; /* カラー変化のアニメーションを追加 */
+}
+
+a:hover {
+  color: #ED6C00; /* マウスオーバー時の色を変更 */
+}
+
+a::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #0D955A; /* 下線の色 */
+  transition: width 0.3s; /* 下線のアニメーション */
+}
+
+a:hover::after {
+  width: 100%; /* 下線をリンクの幅に拡大 */
+}
+
+/* 表のスタイル改善 */
+.ProductTable {
+  border: solid 2px #0D955A; /* 境界線の太さを増やし、色を変更 */
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+
+.ProductTable th,
+.ProductTable td {
+  border: solid 1px #0D955A; /* セルの境界線の色を変更 */
+  padding: 10px; /* セル内の余白を調整 */
+}
+
+.ProductTable th {
+  background-color: #F5F5F5; /* ヘッダーの背景色を変更 */
+  text-align: center;
+}
+
+.ProductTable tr:nth-child(even) {
+  background-color: #EFEFEF; /* 偶数行の背景色を変更 */
+}
+
+.ProductTable tr:hover {
+  background-color: #DDDDDD; /* マウスオーバー時の背景色を変更 */
+}
+</style>
+
 <body>
 
- <div class="main">
+<div class="main">
   <h1>きずなの死亡保険</h1>
   <form class="form">
-  <table class="ProductTable">
-    <tr><td>
-     <a href="https://kizuna-ssi.github.io/template/premium.html" style="text-decoration: none;">
-     <span style="font-size: 1.5em; font-weight: bold; color: #0D955A;">保険金額固定コース</span></a></td><tr>
-    <tr><td>
-     <a href="https://kizuna-ssi.github.io/template/amount.html" style="text-decoration: none;">
-     <span style="font-size: 1.5em; font-weight: bold; color: #ED6C00;">保険料定額コース</span></a></td><tr>
-  </table><br>
-
+    <table class="ProductTable">
+      <tr>
+        <td>
+          <a href="https://kizuna-ssi.github.io/template/premium.html">保険金額固定コース</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://kizuna-ssi.github.io/template/amount.html">保険料定額コース</a>
+        </td>
+      </tr>
+    </table>
   </form>
- </div>
+</div>
+
 </body>
-</html>
