@@ -97,6 +97,11 @@
     }
 }
 
+.indent {
+  text-indent: -1em;
+  padding-left: 1em;
+}
+
   .order-button {
     display: inline-block;
     vertical-align: middle;
