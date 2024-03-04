@@ -98,8 +98,17 @@
 }
 
 .indent {
-  text-indent: -1em;
-  padding-left: 1em;
+  list-style: none;
+  padding-left: 1.5em;
+  margin-left: 0.5em;
+}
+
+.indent li{
+    text-indent: -1.5em;
+}
+.indent li:before{
+    content: "※";
+    margin-right: 0.5em;
 }
 
   .order-button {
