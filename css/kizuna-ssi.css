@@ -375,7 +375,7 @@
   max-width: 350px; /* ボタン幅 */
   position: relative;
   background: #4D9BC1; /* 背景色 */
-  border: 2px solid #4D9BC1;
+  border: 2px solid #0d955a;
   padding: 1em 2em;
   font-weight: bold;
   color: #fff; /* 文字色 */
@@ -401,10 +401,49 @@
 /* マウスオーバーした際のデザイン */
 .background_btn01:hover {
   background: #fff; /* 背景色 */
-  color: #4D9BC1; /* 文字色 */
+  color: #0d955a; /* 文字色 */
 }
 
 .background_btn01:hover:before {
-  border-top: 2px solid #4D9BC1; /* 矢印の色 */
-  border-right: 2px solid #4D9BC1; /* 矢印の色 */
+  border-top: 2px solid #0d955a; /* 矢印の色 */
+  border-right: 2px solid #0d955a; /* 矢印の色 */
+}
+.background_btn02 {
+  display: inline-block;
+  width: 100%;
+  max-width: 350px; /* ボタン幅 */
+  position: relative;
+  background: #4D9BC1; /* 背景色 */
+  border: 2px solid #ed6c00;
+  padding: 1em 2em;
+  font-weight: bold;
+  color: #fff; /* 文字色 */
+  text-decoration: none;
+  text-align: center;
+  transition-duration: 0.3s;
+}
+
+.background_btn02:before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  border: 0;
+  border-top: 2px solid #fff; /* 矢印の色 */
+  border-right: 2px solid #fff; /* 矢印の色 */
+  transform: rotate(45deg);
+  position: absolute;
+  top: 50%;
+  left: 25px;
+  margin-top: -6px;
+}
+
+/* マウスオーバーした際のデザイン */
+.background_btn02:hover {
+  background: #fff; /* 背景色 */
+  color: #ed6c00; /* 文字色 */
+}
+
+.background_btn02:hover:before {
+  border-top: 2px solid #ed6c00; /* 矢印の色 */
+  border-right: 2px solid #ed6c00; /* 矢印の色 */
 }
