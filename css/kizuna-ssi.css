@@ -105,7 +105,6 @@
 .indent li{
     text-indent: -1.5em;
     list-style: none;
-    text-size: 90%;
 }
 .indent li:before{
     content: "※";
