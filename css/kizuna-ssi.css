@@ -47,12 +47,14 @@
 
   .DocumentTable td {
     padding: 5px 5px;
+    border-bottom-style: solid;
   }
 
   .DocumentTable th {
     text-align: center;
     border-spacing: 0px 5px;
     background-color: #DCDDDD;
+    border-bottom-style: solid;
   }
 
 
