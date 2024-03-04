@@ -98,14 +98,14 @@
 }
 
 .indent {
-  list-style: none;
   padding-left: 1.5em;
   margin-left: 0.5em;
-  text-size: 90%;
 }
 
 .indent li{
     text-indent: -1.5em;
+    list-style: none;
+    text-size: 90%;
 }
 .indent li:before{
     content: "※";
