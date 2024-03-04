@@ -374,7 +374,7 @@
   width: 100%;
   max-width: 350px; /* ボタン幅 */
   position: relative;
-  background: #4D9BC1; /* 背景色 */
+  background: #0d955a; /* 背景色 */
   border: 2px solid #0d955a;
   padding: 1em 2em;
   font-weight: bold;
@@ -413,7 +413,7 @@
   width: 100%;
   max-width: 350px; /* ボタン幅 */
   position: relative;
-  background: #4D9BC1; /* 背景色 */
+  background: #ed6c00; /* 背景色 */
   border: 2px solid #ed6c00;
   padding: 1em 2em;
   font-weight: bold;
