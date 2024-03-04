@@ -223,13 +223,13 @@
 }
 
   h3::before {
-   content: counter(section1) ". ";
-   counter-increment: section1;
+   content: counter(section2) ". ";
+   counter-increment: section2;
 }
 
   h4::before {
-   content: "（" counter(section2) "） ";
-   counter-increment: section2;
+   content: "（" counter(section3) "） ";
+   counter-increment: section4;
 }
 
   h1:after {
