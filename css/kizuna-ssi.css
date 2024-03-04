@@ -200,14 +200,14 @@
 }
 
   h2 {
-   font-size: 2em;
+   font-size: 1.5em;
    font-weight: bold;
    padding:0;
 }
 
   h3 {
    font-size: 1.2em;
-   font-weight: bold;
+   font-weight: nomal;
    margin: 0 0 1rem 0.5rem;
    padding-left: 0.5em;
    text-indent: -1.0em;
