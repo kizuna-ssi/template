@@ -7,17 +7,30 @@
 </head>
 
 <body>
-<main class="quiz outer-block">
+
+<main class="quiz">
   <div class="inner-block">
+
     <div class="quiz-content">
+
+      <div class="finish">
+        <div class="score-wrap">
+          <span class="score">0</span>
+          <span class="ja">点</span>
+          <span class="full">／50点</span>
+        </div>
+        <a href="/" class="goback-button">最初からやり直す</a>
+      </div>
+
       <div class="quiz-question-number"></div>
       <h2 class="quiz-question"></h2>
+
       <ul class="quiz-answer">
         <li>
-          <label class="quiz-button button01">
-            <input name="radio" type="radio" value="">
-            <span class="quiz-text01"></span>
-          </label>
+        <label class="quiz-button button01">
+          <input name="radio" type="radio" value="">
+          <span class="quiz-text01"></span>
+        </label>
         </li>
         <li>
           <label class="quiz-button button02">
@@ -40,20 +53,8 @@
       </ul>
     </div>
   </div>
-
-
-<div class="quiz-content">
-  <div class="finish">
-    <div class="score-wrap">
-      <span class="score">0</span>
-      <span class="ja">点</span>
-      <span class="full">／50点</span>
-    </div>
-    <a href="/" class="goback-button">最初からやり直す</a>
-  </div>
-</div>
-  
 </main>
+
 
 <!--jQueryの読み込み-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
